@@ -40,3 +40,6 @@ Phrases (like Prepositional Phrases) or Clauses usually come after the noun beca
 - All of the workers
   - *All* is the **head of the NP**. It is the pronoun representing the total amount
   - "*of the workers*" is a **Post-Modifier**. The PP telling us which specific group we are taking *all* from. It is a Post-Modifier because it follows the word it describes (*All*)
+
+- The students of the class
+  - 

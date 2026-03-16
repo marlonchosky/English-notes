@@ -2,12 +2,12 @@
 
 The verb must match the **head noun** of the Subject NP in number (singular or plural), regardless of the phrases that follow it.
 
-- The last dog of my parents' pets is nice
+- The last dog of my parents' pets is nice (*This is a Partitive Structure and a Standard NP*)
   - Head Noun: *dog*
     Number: singular
     Verb: is (singular)
 
-- The last 2 dogs of my parents' pets are nice
+- The last 2 dogs of my parents' pets are nice (This is a Partitive Structure and a Standard NP)
   - Head Noun: *dogs*
     Number: Plural
     Verb: are (Plural)
@@ -238,7 +238,7 @@ Now, there are special uses for Either and Neither:
 
 ## "Either... or" and "Neither... nor"
 
-In these both cases, the rules for verb agreement shift away from the "*always singular*" rule of distributes. Instead, we use a rule called "**The Rule of Proximity**":
+In these both cases, the rules for verb agreement shift away from the "*always singular*" rule of distributives. Instead, we use a rule called "**The Rule of Proximity**":
 ==The verb ignores the first subject and agrees only with the subject closes to it.==
 
 **Examples**:

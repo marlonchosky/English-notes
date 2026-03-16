@@ -30,8 +30,8 @@ They can replace a noun.
 
 ## Adverbs
 
-<u>Only much and its family can functions as an adverb</u>. It modifies verbs or adjectives.
-<u>Many cannot be an adverb</u>
+==<u>Only much and its family can functions as an adverb</u>==. It modifies verbs or adjectives.
+==<u>Many cannot be an adverb</u>==
 
 - I don't get out **much** these days (*Modifies the verb get out*)
 - I feel **so much** better now (*Modifies the adjective better, which is after the linking verb "feel"*)

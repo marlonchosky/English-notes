@@ -1,14 +1,23 @@
-# Depictive Adjectives or Depictive Adjuncts
+# Depictive Adjectives (Complements or Adjuncts)
 
 It describes the state of the subject/object at the time the action happened. It is related to the state of being of the qualified noun.
 
-- He licked the plate angry
+- Depictive Adjuncts
 
-  *licked* is a **Monotransitive Verb**, and *angry* is a **Depictive Adjunct** that refers to the subject.
+  - He licked the plate angry
 
-- I ate the pizza cold.
+    *licked* is a **Monotransitive Verb**, and *angry* is a **Depictive Adjunct** that refers to the subject.
 
-  *ate* is a **Monotransitive Verb**, and *cold* is a **Depictive Adjunct** that refers to the object.
+
+  - I ate the pizza cold.
+
+    *ate* is a **Monotransitive Verb**, and *cold* is a **Depictive Adjunct** that refers to the object.
+
+- Depictive Complements
+
+  - I found the walls yellow
+
+    If you mean "I judged them", then *found* is a **Complex Transitive Verb** and *yellow* is an **Object Depictive Complement**
 
 There are 2 types:
 
@@ -20,7 +29,7 @@ There are 2 types:
 In a sentence, they can be optional or mandatory.
 When they're optional, they are called **Resultative Adjuncts**. When they're mandatory, they are called **Object Complements**.
 
-When they go in a Complex Transitive Structure, they are **Object Complements**.
+When they go in a **Complex Transitive Structure**, they are **Object Complements**.
 
 - He licked the plate clean.
 
@@ -33,7 +42,12 @@ When they go in a Complex Transitive Structure, they are **Object Complements**.
 
 Resultative Adjectives can refer to the subject with **Unaccusative Verbs**. In this structure, Resultatives can be **Adjuncts** or **Complements**.
 
-Sometimes, we can express a result with Intransitive Verbs. To do this, we have to use a *fake* (reflexive) object.
+- The food turned bad. 
+  - *turned* is an **Unaccusative Verb** and *bad* is a **Resultative Complement**.
+- The river froze solid.
+  - *froze* is an **Unaccusative Verb** and *solid* is a **Resultative Adjunct**
+
+Sometimes, we can express a result with **Intransitive Verbs**. To do this, we have to use a *fake* (reflexive) object.
 
 - He ran tired
 
@@ -71,8 +85,8 @@ In Passive Voice Structures, its role is a **Subject Complement**:
 
 # Attributive Adjectives vs Predicate Adjectives
 
-- Attributive Adjectives come before the noun (*the interesting book*)
-- Predicate Adjectives come after a verb and relates back to a noun (*The book is interesting*)
+- Attributive Adjectives come before the noun (*the **interesting** book*)
+- Predicate Adjectives come after a verb and relates back to a noun (*The book is **interesting***)
 
 # Postpositive Adjectives
 
@@ -113,7 +127,7 @@ They aren't the standard way to speak today; they usually appear in English due 
     - Physical
     - Evaluative
 
-# English adjective-verb relationships
+# English Adjective-Verb Relationships
 
 * The term "adjective-verb relationships" isn't usually a single chapter title in a basic grammar book, but in advanced linguistics and syntax, it is a massive and fascinating field of study. It explores how adjectives and verbs "handshake" to create meaning.
 * If you want to dive deeper into this, you are looking for the intersection of Syntax (sentence structure) and Semantics (meaning).

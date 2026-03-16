@@ -22,6 +22,8 @@ CTVs have some characteristics:
   A CTV usually describes a change or a judgement regarding the object.
   A Depictive Adjunct describes the state of the subject/object at the time the action happened. It is like saying "I ate the pizza while it was cold"
 
+
+
 # Unaccusative Verbs vs Accusative Verbs
 
 ## Accusative Verbs
@@ -77,6 +79,32 @@ You can express **result** with this kind of verbs using a *fake reflexive objec
   - She cried herself to sleep.
 - They shouted
   - They shouted themselves red in the face
+
+
+
+# Static vs Dynamic Linking Verbs
+
+English has 2 main types of linking verbs: those that describe a **state** and those that describe a **change**.
+
+| Type        | Verb Example    | Sentence                | Logic                           |
+| ----------- | --------------- | ----------------------- | ------------------------------- |
+| **Static**  | **Be/Seem**     | The food **is** bad     | It is already in that state.    |
+| **Dynamic** | **Turn/Become** | The food **turned** bad | It transitioned into that state |
+
+## The "Go" Idiom Rule
+
+In English, we have specific "collocations" (word partners) for these linking verbs. We almost always use **"go"** for negative changes in condition:
+
+- The milk **went** sour.
+- The bread **went** stale.
+- The project **went** wrong.
+- The man **went** bald.
+
+"**Turn**", in contrast, often implies a more sudden or visible transition:
+
+- This turned sour
+- His face turned red (blushing)
+- It turned cold (the weather)
 
 # Another Types
 

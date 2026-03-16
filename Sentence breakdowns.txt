@@ -1,131 +1,21 @@
-THis is where I was last time.
-
-The tired workers in the office
-
-
-
- It’s like saying "Some of the ore" or "Most of the equipment."
-
-
-
-"**A number of** miners **are** waiting." (Plural)
-
-"**The number of** miners **is** 50." (Singular)
-
-
-
-
-
-### Other Verbs that use Past Participle Complements
-
-It's not just for perception! "Causative" verbs and "Desire" verbs use this too:
-
-- **Causative:** "I **had** the report **translated**."
-- **Desire:** "I **want** the mineral samples **tested**."
-
-In both cases, **"translated"** and **"tested"** are Object Complements wearing the **Past Participle** hat.
-
-------
-
-### Summary Checklist for your Toolkit
-
-- ✅ **Object Complements** can be: Adjectives, Nouns, Bare Infinitives, Present Participles (-ing), and **Past Participles (-ed)**.
-- ✅ **Past Participle Complements** always imply a **passive** meaning (the object was acted upon).
-
-**Would you like to try a breakdown of a "Desire" sentence, like "The manager wants the project finished"?** (This will let you practice identifying the Past Participle as a mandatory complement for the verb "want").
-
-
-
-I found it boring. 
-=====================
-He ate the pizza cold. 
-* Cold is a Depictive Adjective, and "ate" is a monotransitive verb.
-
-I found the dog alive (depictive adjective, monotransitive verb)
-* "alive": This is a Depictive Adjunct (Object-oriented).
-=====================
-He bought his brother a car.
-* Bought: This is a Ditransitive Verb
-* Expert Note: Unlike monotransitive verbs, ditransitive verbs license two objects: one for the thing being acted upon and one for the recipient of that thing.
-
-He bought a car for his brother.
-* bought: Monotransitive verb
-* for his brother: Prepositional Phrase and Benefactive Adjunct.
-
-The food turned bad. (turned is a linking verb, not a monotransitive verb)
-* Unaccusative verb, specifically a Linking verb
-  -> Expert Note: You correctly identified it as "light." In linguistics, this is often called a delexical verb or a copula. It doesn't describe a physical "turning" (like a wheel), but rather a transition into a new state.
-* "bad" is a Subject Complement, specifically a Resultative Predicative Complement
-
-He turned the page. (turned here is a monotransitive verb)
-The river ran dry.
-* Unaccusative Verb with Resultative Complement
-
-The milk went sour.
-* Equivalent to "The milk turned sour", but:
-  -> Go is the most common verb used for deterioration or negative changes in food: Go sour, go bad, go rotten, go moldy
-  -> Turn often implies a more sudden or visible transition: turn sour, turn red (blushing), turn cold (the weather)
-  =====================
-  It explains a lot.
-* explains: monotransitive verb
-* a lot: direct object, pronoun and Phrasal Quantifier
-
-It explains a lot of things.
-* a lot of things: direct object and Noun Phrase
-* a lot of: Phrasal Quantifier, Determiner
-* things: head word of the NP
-
-It explains so much. 
-* so much: Quantifier phrase, direct object, pronoun
-* It is a Quantifier Phrase instead of a Phrasal Quantifier because you can change the Modifier (e.g. too much, very much, pretty much). In these cases, the quantifier much is the core, and the other word is a degree modifier.
-
-It explains very much. 
-* very much: Direct object, Quantifier Phrase, pronoun. This is too formal. Very much is much more used as an adverb.
-
-A lot of things are missing.
-A lot of stuff is missing.
-It explains lots of things.
-
-It explains a great deal of things.
-* "a great deal of things": Direct object and Noun Phrase
-* "a great deal of": Phrasal Quantifier
-* "A great deal of" is more commonly used with Uncountable Nouns. For Countable Nouns, it is better to use "A large number of" or "A great many"
-
-I am much concerned.
-* Much can also be used as an adverb to modify base adjectives rather than comparative adjectives, but these base adjectives can only be part of Past Participles, such as "concerned, interested, admired, surprised". Here the rules get flexible.
-* However, this is extremely formal.
-* "I am very much concerned": this is very common and natural. The very helps the much sound more fluid. It adds strong emphasis to your feeling
-* "I am very concerned": this is the standard way to express the idea
-
-I am so much/too much concerned. 
-* Wrong, we use "so"/"to" alone to intensify adjectives.
-* I am so concerned about the project. This is OK.
-
-I am a lot concerned. 
-* Wrong, it should be "a lot less concerned", "a lot more concerned" or with Comparative adjectives, not with gradable adjectives.
-* I am a lot happier now.
-
-There is much noise. 
-* Too formal.
-* There is a lot of noise.
-* There is lots of noise
-* There is a great deal of noise.
-
-There is too much/so much noise.
-* OK
-* There: Expletive pronoun
-* "too much noise": Notional subject
-* "too much": Quantifier Phrase, determiner
-  -> too: adverb of degree
-  -> much: quantifier and head of the phrase
-* The agreement paradox, a verb agrees with the subject
-  -> "There" is a dummy and has no number (it's neither singular nor plural), the verb is forced to look ahead and agree with the Notional Subject
-  -> Singular/Uncountable: There is too much noise
-  -> Plural: There are too many people
-  -> This "looking ahead" is a unique feature of the existential construction
-  =====================
-
 He agreed to attend.
+
+He persuaded me to attend
+
+"I protected the house **from fire**.
+
+My father **seems** to attend
+
+"I left the door **open**." (OC)
+
+"I left the keys **on the counter**." (LC)
+
+"I left him **with the bill**." (PC)
+
+The decision to leave was hard
+
+I saw him leave
+
 * The verb agree has 3 primary "complementation patterns"
   -> 1. Agree + Infinitive Phrase (Non-finite complement)
      ---> He agreed to attend.
