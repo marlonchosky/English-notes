@@ -1,29 +1,3 @@
-# Complex Transitive Verbs (CTVs)
-
-They express:
-
-- Designation/Naming
-  - The committee elected him chairperson
-- Perception/Opinion
-  - I consider this a mistake
-- Causation/Result
-  - The news made her happy
-
-## How to identify them
-
-CTVs have some characteristics:
-
-- *Obligation*: The Object Complement is required. Let's analyze some sentences:
-  - I ate the pizza cold
-    - *cold* here is not required. You can say "I ate the pizza" and it makes sense. So the adjective *cold* here is extra information.
-  - The news made him sad
-    - If you said "*The news made him*", the sentence would be incomplete or mean something entirely different. The word *sad* is essential.
-- *Result vs State (Depictive Adjuncts)*: The word *cold* in the previous example is called a **Depictive Adjunct** or a Predicative Adjunct. 
-  A CTV usually describes a change or a judgement regarding the object.
-  A Depictive Adjunct describes the state of the subject/object at the time the action happened. It is like saying "I ate the pizza while it was cold"
-
-
-
 # Unaccusative Verbs vs Accusative Verbs
 
 ## Accusative Verbs

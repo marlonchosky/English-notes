@@ -1,3 +1,11 @@
+The goal is for him to migrate the data
+
+"The goal is that he **migrate** the data." (formal/academic) (subjunctive)
+
+The goal is that he **should migrate** the data (standard/formal) (modal should)
+
+The goal is that he **migrates** the data. (informal/common) (indicative)
+
 He agreed to attend.
 
 He persuaded me to attend
@@ -13,6 +21,21 @@ My father **seems** to attend
 "I left him **with the bill**." (PC)
 
 The decision to leave was hard
+
+This tool is busy **drilling the hole**
+
+The deposits reside **underground**
+
+"I **timed** the process [at three hours].
+
+As you build your grammar toolkit for your Typora notes, keep in mind that Adverbs of Place often fall into two groups:
+
+| **Type**             | **Examples**                              | **Function in a CIV structure**               |
+| -------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Simple Adverbs**   | *here, there, nearby, everywhere*         | Links the Subject to a relative location.     |
+| **Compound Adverbs** | *underground, upstairs, outdoors, inside* | Links the Subject to a specific spatial zone. |
+
+
 
 I saw him leave
 

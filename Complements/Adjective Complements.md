@@ -8,7 +8,7 @@ An Adjective Complement is almost always a phrase or a clause that follows the a
 
 ## Infinitive Phrase
 
-- True heroes are not afraid **to make tough choices**. (Explains the action the subject is afraid of)
+- True heroes are not afraid **to make tough choices**. (*Explains the action the subject is afraid of*)
 
 
 
