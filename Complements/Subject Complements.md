@@ -20,13 +20,13 @@ Because the relationship is always ***Subject = Complement***, we categorize the
 
 
 
-## Location / Place (Locative [PP/Adv.P]) (<span type="group-1">*Subject → Location*</span>)
+## Location / Place (Adverbial [PP/Adv.P]) (<span type="group-1">*Subject → Location*</span>)
 
 - The server is **in the rack**.
 
 
 
-## Purpose / Action (Non-finite Infinitive Clause) (<span type="group-1">*Subject = Action*</span>)
+## Purpose / Action (Verbal Complement) (<span type="group-1">*Subject = Action*</span>)
 
 - The goal is **to migrate the data**.
 - The goal is **for him to migrate the data**.
@@ -39,6 +39,6 @@ Because the relationship is always ***Subject = Complement***, we categorize the
 
 
 
-## Explanation (That-Clause) (<span type="group-1">*Subject = Fact*</span>)
+## Explanation (Clausal Complement) (<span type="group-1">*Subject = Fact*</span>)
 
 - The issue is **that the file is corrupt**.

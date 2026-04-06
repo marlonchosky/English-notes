@@ -22,7 +22,7 @@ Used to make uncountable nouns "countable" by putting them into units
 
 - A **liter of** fuel
 - A **ton of** ore
-- A **piece of** equipment (Since you can''t say "*one equipment*", you use the partitive "*piece of*")
+- A **piece of** equipment (Since you can't say "*one equipment*", you use the partitive "*piece of*")
 
 ## Quantifying Partitives (The "Fraction" Rule)
 

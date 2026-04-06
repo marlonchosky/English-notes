@@ -26,7 +26,7 @@ An Adjective Complement is almost always a phrase or a clause that follows the a
 
 
 
-## That-Clause (also called Noun Clauses or Content Clauses or Complement Clauses)
+## Clausal Complement (also called That-Clause, Noun Clauses or Content Clauses or Complement Clauses)
 
 - I am sure **that he will arrive**.
   - Explains the fact I am sure of.

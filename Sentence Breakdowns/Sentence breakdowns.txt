@@ -28,6 +28,8 @@ The deposits reside **underground**
 
 "I **timed** the process [at three hours].
 
+The river froze **quickly**
+
 As you build your grammar toolkit for your Typora notes, keep in mind that Adverbs of Place often fall into two groups:
 
 | **Type**             | **Examples**                              | **Function in a CIV structure**               |
@@ -213,4 +215,13 @@ I want you to be happy
 "He stopped smoking" vs. "He stopped to smoke").
 
 it is performing the same work an adjective would.
+
+
+
+For Verbs, adjuncts
+
+#### The Adjunct Box (Optional)
+
+- Adverbial Adjunct (*He ran **quickly***)
+- **Secondary Predicate / Predicative Adjunct** (*The river froze **solid***)
 

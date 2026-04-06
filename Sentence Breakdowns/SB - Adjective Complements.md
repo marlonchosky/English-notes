@@ -1,7 +1,7 @@
 1. True heroes are not afraid to make tough choices
    - True heroes: Subject and NP
    - are not: Verb Phrase
-     - are: Link Verb and head of the VP, and a Finite Verb
+     - are: Linking Verb and head of the VP, and a Finite Verb
      - not: Adverb of Negation
    - afraid [Complement]: Subject Complement and Adjective Phrase
      - afraid: head word of the AP and Predicate Adjective

@@ -14,7 +14,7 @@ Completes a verb of choice/intention.
 
 
 
-## 2. Adverbial Complement (<span type="group-2">Complex Intransitive Verbs CIVs</span>)
+## 2. Adverbial Complement (<span type="group-2">CIVs</span>)
 
 Verbs are called **Complex Intransitive Verbs** or **Copular-Like**.
 
@@ -48,6 +48,14 @@ Intransitive Verbs require a "hook" (the preposition to grab their object)
 
   - agreed: **Intransitive**
 
+
+
+#  5. Subject Complement (<span type="group-2">CIVs</span>)
+
+It is usually filled by Linking Verbs
+
+- The river is **solid**.
+
 ---
 
 # For Transitive Verbs
@@ -77,7 +85,9 @@ The entity **directly affected** or **acted upon**
 ### Participle (Present/Past) (<span type="group-2">*DO ↔ Action*</span>)
 
 - I saw the sun **setting** (*Present Participle*)
-- I saw my room **cleaned** (*Past Participle and Passive Voice*)
+- I saw my room **cleaned** (*Past Participle and Passive Voice*) 
+- It gets the job done (*Past Participle and Passive Voice*)
+  - ***Subject + Get + Object + Past Participle = Result***
 - I had my room **cleaned** (*Past Participle and Passive voice*)
 
 
@@ -143,7 +153,7 @@ Be careful! Not all Complex Transitive Verbs are as flexible as *watch* or *see*
 
 The word or phrase that tells us *the state, or identity of the Direct Object*.
 
-## 5.1. Adjective
+## 5.1. Adjective Phrase
 
 It describes a state/result, or a mental label.
 

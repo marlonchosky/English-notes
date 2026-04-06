@@ -1,36 +1,3 @@
-# Unaccusative Verbs vs Accusative Verbs
-
-## Accusative Verbs
-
-This term is the same as **Transitive Verbs**. It is called accusative because, in languages with *cases* (like Latin or German), the object takes the *accusative case*.
-
-- **Structure**: Subject (Agent) → Verb →  **Object (Patient)**
-- **Logic**: Someone does something to something else
-- Example: The chef **broke** the egg
-  - The chef is the actor (Subject)
-  - The egg is the thing affected (Accusative Object)
-
-## Unaccusative Verbs
-
-They are **intransitive**. The Subject is a Patient and it undergoes the change given by the verb. There is **no object**.
-
-- **Structure**: **Subject (Patient**) → Verb
-- **Logic**: Something happens to the subject itself. There is no "accusative" object involved, which is why they are called **un-accusative**
-- Example: The egg **broke**
-  - The egg is now the Subject, but it is still the thing being affected.
-
-There are a few cases where an Unaccusative Verb **feels empty or loses its intended meaning** without a **Resultative Adjective**.
-
-- The door blew open
-  - If you just say "The door blew", a listener might ask, "it blew where? away? down?". In this case, the verb "blow" is so vague that the Resultative "*open*" provides the necessary *endpoint* for the action.
-
- For most Unaccusative Verbs, the sentence is complete without the Resultative:
-
-- The river froze solid.
-  - *Solid* is optional
-- The vase broke into pieces
-  - *into pieces* is optional.
-
 # Unergative Verbs vs Ergative Verbs
 
 ## Ergative Verbs
@@ -53,6 +20,12 @@ You can express **result** with this kind of verbs using a *fake reflexive objec
   - She cried herself to sleep.
 - They shouted
   - They shouted themselves red in the face
+
+
+
+# Core CIVs (The Copulas) vs Secondary CIVs (The Resultatives/Depictives)
+
+TODO
 
 
 
@@ -88,8 +61,13 @@ Like *watch, see, hear, feel*. They can be **CTVs**, and the **Object Complement
 
 ## Verbs of Motion/Change
 
-Like *open* which are **Ergative**.
+Like *open, break* which are **Ergative**.
 
 ## Verb of Residence/Position
 
 Like *reside* which is **Intransitive**.
+
+## Verbs of Emission
+
+Like *shine, sparkle,* and *smell*.
+

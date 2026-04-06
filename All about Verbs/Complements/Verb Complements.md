@@ -6,10 +6,11 @@ We have these:
 
 1. Direct Object
 2. Verbal Complement (**CT structure**)
-3. Adverbial Complement (**CT structure**)
+3. Adverbial Complement (**CT and CI structure**)
 4. Prepositional Phrase/Complement
 5. Object Complement (**CT structure**)
 6. Clausal Complement
+7. Subject Complement (**CIT structure**)
 
 ---
 
@@ -182,3 +183,11 @@ Describes an **identity/role**.
 - I agreed **that I would attend**
   - that: It is optional. It is just a **Complementizer** or a **Subordinating Conjunction**. It doesn't stand in for a noun, it just signals the start of the clause.
   - agreed: **Intransitive**
+
+---
+
+# 7. Subject Complement (<span type="group-2">CIVs</span>)
+
+It is usually filled by Linking Verbs
+
+- The river is **solid**.
