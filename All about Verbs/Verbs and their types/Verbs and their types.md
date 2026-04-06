@@ -71,3 +71,6 @@ Like *reside* which is **Intransitive**.
 
 Like *shine, sparkle,* and *smell*.
 
+## Verbs of Becoming
+
+Like *become, get, grow, turn*

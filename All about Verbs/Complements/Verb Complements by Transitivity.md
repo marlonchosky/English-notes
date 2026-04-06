@@ -25,6 +25,16 @@ Verbs are called **Complex Intransitive Verbs** or **Copular-Like**.
 
 
 
+It tells us the Result or the Manner
+
+- The food <span type="group-2">turned</span> **into poison**
+  - turned: CIV
+  - into poison: **Adverbial Complement** and PP (it represents the result of the transformation)
+    - into: head word of the PP
+    - poison: object of the preposition
+
+
+
 ## 3. Prepositional Phrase/Complement (<span type="group-2">Prepositional Verb</span>)
 
 Intransitive Verbs require a "hook" (the preposition to grab their object)

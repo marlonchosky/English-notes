@@ -13,6 +13,14 @@
      - you: Subject and Pronoun
      - learn: Monotransitive Verb
      - this: DO and Demonstrative Pronoun.
-4. a
+2. The food turned bad/poisonous
+   - The food: Subject and NP
+   - turned: Linking Verb and CIV
+   - bad/poisonous: Subject Complement and Resultative Adjective Phrase
+4. He turned traitor
+   - turned: CIV
+   - traitor: Subject Complement and NP 
 5. a
 6. a
+7. a
+8. a
