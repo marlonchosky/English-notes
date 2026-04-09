@@ -82,10 +82,26 @@
      - into: head word of the PP
      - poison: object of the preposition
 
-9. a
+9. He's protecting his house relative to a threat.
 
-10. a
+   - protecting: Monotransitive
+   - his house: DO and NP
+   - his: Possessive Central Determiner
+   - house: head word of the NP
+   - relative to a threat: Adverbial Post-Modifier of the Verb, Adverbial of Relation and PP
+     - relative to: Complex Preposition and head of the PP
+
+10. The house relative to the park is mine
+
+    - The house [phrase]: Subject
+      - [phrase] = relative to the park: Adjectival Post-Modifier and PP
+      - relative to: Complex Preposition and head of the PP
+      - the park: Object of the preposition. 
+    - is: CIV
+    - mine: Subject Complement and Possessive Pronoun
 
 11. a
 
-12. 
+12. a
+
+13. 

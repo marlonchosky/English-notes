@@ -20,7 +20,8 @@
 4. He turned traitor
    - turned: CIV
    - traitor: Subject Complement and NP 
+   - turned has a special characteristic. When it is used to mean a change in **allegiance, profession, or religion**, it deletes the article. Similar: "She turned **doctor**", "He turned **Catholic**"
+4. a
 5. a
 6. a
-7. a
 8. a

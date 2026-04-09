@@ -12,9 +12,35 @@
    - until midnight: Temporal Adverbial Complement and PP
      - until: head word
      - midnight: object of the prep
-3. a
-4. a
-5. a
-6. a
-7. a
+3. The river ran dry
+   - ran: CIV
+   - dry: Subject Complement, and Resultative Adjective Phrase
+4. The milk went sour
+   - went: CIV. It expresses a transition into a bad state.
+   - sour: Subject Complement, and Resultative Adjective Phrase
+5. The milk went into the fridge
+   - went: CIV
+   - into the fridge: Locative Adverbial Complement and PP
+6. The goal is that he migrates the data
+   - The goal: Subject and NP
+   - is: CIV
+   - that he migrates the data: Subject Complement and Noun Clause
+   - that: Subordinator / Complementizer
+   - he: Subject
+   - migrates: Finite Monotransitive Verb
+   - the data: DO and NP
+7. The goal is he should migrate the data
+   - is: CIV
+   - he should migrate the data: Subject Complement and Noun Clause
+   - he: Subject
+   - should: Modal Verb
+   - migrate: Main Monotransitive Verb
+   - the data: DO and NP
 8. 
+   - 
+9. a
+10. a
+11. a
+12. a
+13. a
+14. 

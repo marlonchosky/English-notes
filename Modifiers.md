@@ -26,6 +26,7 @@ Phrases (like Prepositional Phrases) or Clauses usually come after the noun beca
 - **Prepositional Phrase**: The workers *from the night shift*
 - **Relative Clause**: The workers *who extracted the ore*
 - **Adjective Phrase**: The equipment *available for use*
+- **Infinitive Phrase**: I have something *to sit next to* (I have something *for you to sit next to*)
 
 # Types of Modifiers (The "Big Three")
 

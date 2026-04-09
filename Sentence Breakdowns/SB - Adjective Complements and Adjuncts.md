@@ -15,4 +15,11 @@
      - of: it is the head of the PP
      - making tough choices: Object of the PP, and it is a Noun Phrase, specifically a **Gerund Phrase**
      - making: The head of the Gerund Phrase, and it is non-finite. Its agent is "True heroes"
-3. 
+3. I gave him a book to read
+   - gave: Ditransitive Verb
+   - him: IO
+   - a book: DO and NP
+   - to read: Adjectival Post-Modifier and Infinitive Phrase. Its agent is "him" and the verb is Transitive, its object is "book"
+4. 
+5. a
+6. a

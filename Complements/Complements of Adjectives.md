@@ -1,4 +1,4 @@
-# Adjective Complements
+# Definition
 
 They are mandatory (or highly expected) partner for an adjective. It "completes" the meaning of the adjective.
 

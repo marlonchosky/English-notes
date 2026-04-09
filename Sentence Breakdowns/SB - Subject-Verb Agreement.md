@@ -35,6 +35,26 @@
      - of miners: Adjectival Post-Modifier and PP
    - is: CIV and Linking Verb
    - 50: Subject Complement and NP (Cardinal Numeral)
-6. a
-7. a
-8. 
+6. A lot of things are missing
+   - A lot of things: Subject and NP
+     - A lot of things: Phrasal Quantifier and Central Determiner
+     - things: head word of the NP
+   - are: CIV
+   - missing: Subject Complement and Adjective Phrase
+7. A lot of stuff is missing
+   - Similar as before
+   - stuff: head word of the NP and Uncountable Noun
+8. It explains a great deal of information
+   - explains: Monotransitive
+   - a great deal of information: DO and NP
+   - a great deal of: Phrasal Quantifier and Central Determiner, with a **Formal Weight**
+   - information: head word of the NP
+9. There is lots of noise
+   - There: Expletive Subject and Pronoun
+   - is: Linking Verb, and it is agreeing with the Notional Subject (noise)
+   - lots of noise: Notional Subject and NP
+     - lots of: Phrasal Quantifier and Central Determiner
+     - noise: head word
+10. a
+11. a
+12. a

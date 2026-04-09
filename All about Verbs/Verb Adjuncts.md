@@ -6,10 +6,11 @@ We have these:
 
 1. Adverbial Adjunct
 2. Predicative Adjunct (**Secondary CIVs**)
+3. Prepositional Adjunct
 
 ---
 
-# Adverbial Adjunct
+# 1. Adverbial Adjunct
 
 The **Action** (How, When, Where).
 
@@ -19,7 +20,7 @@ The **Action** (How, When, Where).
 
 ---
 
-# Predicative Adjunct (Secondary Predicate) (<span type="group-2">Secondary CIVs</span>)
+# 2. Predicative Adjunct (Secondary Predicate) (<span type="group-2">Secondary CIVs</span>)
 
 The **Noun's State** (Who, What) is a Predicative.
 
@@ -72,3 +73,12 @@ So, the Secondary Predicate or Predicative Adjunct can be
 3. Prepositional Phrases
 
 and also it can be **Resultative or Depictive**.
+
+---
+
+# 3. Prepositional Adjunct
+
+- He bought a car **for his brother**.
+  - bought: Monotransitive Verb
+  - a car: DO and NP
+  - for his brother: **Prepositional Adjunct** and PP

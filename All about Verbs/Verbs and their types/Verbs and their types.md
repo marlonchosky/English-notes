@@ -53,6 +53,17 @@ In English, we have specific "collocations" (word partners) for these linking ve
 - His face turned red (blushing)
 - It turned cold (the weather)
 
+## The "Exception" Check: Go vs. Come
+
+Think of **Go** and **Come** as directional state-changers:
+
+- **GO + Adjective:** Usually implies a move **away** from the ideal state (sour, bad, wrong).
+- **COME + Adjective:** Usually implies a move **toward** the ideal state (true, right).
+  - *"His dream **came** true."* ✅ (Positive)
+  - *"His dream **went** true."* ❌ (Invalid)
+
+
+
 # Another Types
 
 ## Verbs of Perception
@@ -61,7 +72,7 @@ Like *watch, see, hear, feel*. They can be **CTVs**, and the **Object Complement
 
 ## Verbs of Motion/Change
 
-Like *open, break* which are **Ergative**.
+Like *open, break, run, fall, go, turn* which are **Ergative**.
 
 ## Verb of Residence/Position
 
@@ -74,3 +85,7 @@ Like *shine, sparkle,* and *smell*.
 ## Verbs of Becoming
 
 Like *become, get, grow, turn*
+
+## Verbs of Deterioration
+
+Like *go*
