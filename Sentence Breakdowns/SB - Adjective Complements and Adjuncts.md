@@ -20,6 +20,20 @@
    - him: IO
    - a book: DO and NP
    - to read: Adjectival Post-Modifier and Infinitive Phrase. Its agent is "him" and the verb is Transitive, its object is "book"
-4. 
+4. This tool is busy drilling the hole
+   - This tool: Subject and NP
+   - is: CIV
+   - busy [phrase] = Subject Complement and Adjectival Phrase
+   - busy: head word of the AP
+   - [phrase] = drilling the hole: Adjective Complement and Present Participle Verbal Phrase
+     - It is an Adjective Complement because of the uniqueness of the adjective "**busy**", which allows an "ing" action. Not all adjectives are like this. 
+     - To contrast with "The tool is busy [at the moment]", "at the moment" is an Adverbial Adjunct of Time
+     - Busy is special and not all standard adjectives have this, for instance "The tool is **red** drilling" <span type="incorrect">❌</span>
+   - drilling: head word of the VP
+   - the hole: DO and NP of the Present Participle Verb
 5. a
 6. a
+7. a
+8. a
+9. a
+10. a

@@ -39,6 +39,26 @@
    - that he migrate the data: Subject Complement and Subjunctive Noun Clause 
    - that: Mandative Subordinator for Subjunctive
    - migrate: Bare Infinitive Monotransitive Verb in Subjunctive
-8. 
-9. a
+8. Him leaving the company was sad.
+   - Him leaving the company: Subject and Gerund Phrase
+     - Him: Agent and pronoun in the object case
+     - leaving: head word of the GP, monotransitive in this case
+     - the company: DO and NP, Object of "leaving"
+   - was: CIV
+   - sad: Subject Complement and Adjective
+9. To my knowledge, the ore is pure
+   - To my knowledge: Sentential Adverbial or Disjunct, and PP
+     - To: head of the PP
+     - my knowledge: Object of the Preposition and NP
+       - my: Possessive Determiner
+   - the ore: Subject and NP
+     - the: Central Determiner
+   - is: CIV
+   - pure: Subject Complement and Adjective
 10. 
+11. a
+12. a
+13. a
+14. a
+15. a
+16. a

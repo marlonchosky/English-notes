@@ -36,8 +36,10 @@
    - should: Modal Verb
    - migrate: Main Monotransitive Verb
    - the data: DO and NP
-8. 
-   - 
+8. The deposits reside underground
+   - reside: CIV
+   - underground: Locative Adverbial Complement
+     - While "the underground" can be a noun (like the London Tube), in this sentence, there is no **Determiner** and no **Preposition**, so it is not a "thing", but describes the **location of the action**
 9. a
 10. a
 11. a

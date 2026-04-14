@@ -100,8 +100,27 @@
     - is: CIV
     - mine: Subject Complement and Possessive Pronoun
 
-11. a
+11. I timed the process at three hours.
 
-12. a
+    - timed: Monotransitive
+    - the process: DO and NP
+    - at three hours: Measure Adverbial Adjunct, and PP
+      - It is a Measure Adjunct and not a Temporal Adverbial, because a Temporal answers **when?** (I timed it **on Tuesday**). **Duration** describes the period of time passing (I worked **for three hours**); meanwhile, a Measure/Extent describes the **final value** on a scale (The car costs ten thousand dollars) and answers "**How much/How Long**"
+      - Answers "To what degree/amount"
+    - at: head of the PP
+    - three hours: Object of the preposition and NP
+    - three: Post-Determiner, Quantifier, and Cardinal Number
+    - hours: head word of the NP
+
+12. I timed the process in three hours
+
+    - This sentence is ambiguous. It could mean "It took me three hours to finish timing the process" (**The timing act**); or "The process completed itself within a three-hour window" (**The window**)
+    - timed: Monotransitive Verb
+    - the process: DO and NP
+    - in three hours: Temporal Adverbial Adjunct and PP.
+      - in: head of the PP
+      - three hours: object of the preposition and NP
+      - three: Post-determiner and Cardinal Number
+      - hours: head word of the NP
 
 13. 

@@ -87,9 +87,17 @@
 19. Keep it to yourself
     - Keep: CTV
     - it: DO
-    - to yourself: Locative Adverbial Complement and Secondary Predicate (it is a metaphorical place)
-      - Secondary Predicate: It [is] to yourself (**it is telling the assigned boundary**)
-20. He baked the bread brown
+    - to yourself: Prepositional Complement of the Verb and PP. Specifies a **Scope/Limit Marker**
+      - to: head of the PP. Here, **to** is not a a path; it is a fence that stops the action from going any further
+      - yourself: object of the preposition and reflexive pronoun
+20. Keep the noise to a minimum
+    - Keep: CTV
+    - the noise: DO and NP
+    - to a minimum: Prepositional Complement of the Verb, and PP
+      - to: head of the PP, acts as the **Limit/Boundary Marker**
+      - a minimum: Object of the preposition and NP
+        - a: Central determiner
+21. He baked the bread brown
     - baked: CTV
     - the bread: DO and NP
     - brown: OC and Adjectival Phrase and a Resultative Objective Secondary Predicate

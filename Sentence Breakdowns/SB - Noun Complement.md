@@ -11,7 +11,7 @@
      - for: Complementizer
      - him: Agent of the verb "to leave"
      - to leave: head words of the IP and Intransitive
-3. a
+3. 
 4. a
 5. a
 6. a
