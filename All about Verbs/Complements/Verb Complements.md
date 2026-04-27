@@ -94,14 +94,27 @@ Be careful! Not all Complex Transitive Verbs are as flexible as *watch* or *see*
 
 The **location/position** (**Locative Complement and Adverb of Place**) or **moment/time** (**Temporal Complement or Adverb of Time**) required by the verb.
 
+There are also special type of adverbials that go together with special type of verbs
+
 ## 3.1. With Intransitive Verbs (<span type="group-2">Complex Intransitive Verbs CIVs</span>)
 
 When these verbs are intransitive and have an Adverbial Complement, they are also called **Complex Intransitive** Or **Copular-Like**:
 
-- The deposits reside **underground**. (*Intransitive*)
+- The deposits reside **underground**.
+  - reside: Locative Verb
   - underground: **Locative Complement** and an **Adverbial of Place**.
-- The shift lasted **until midnight**. (*Intransitive*)
+  
+- The shift lasted **until midnight**.
+  - lasted: Duration Verb
   - until midnight: **Temporal Complement** and an **Adverbial of Time**
+
+- The food <span type="group-2">turned</span> **into poison** (*It tells us the Result or the Manner*)
+  - into poison: **Adverbial Complement** and PP (it represents the result of the transformation)
+    - into: head word of the PP
+    - poison: object of the preposition
+- The car <span type="group-2">costs</span> **ten thousand dollars** 
+  - costs: Measure Verb, CIV
+  - ten thousand dollars: **Measure Adverbial Complement** and **NP**
 
 
 

@@ -31,7 +31,10 @@
    - left: CTV
    - the keys: DO and NP
    - on the counter: Locative Adverbial Complement and PP
-8. 
+8. I saw him leave
+   - saw: CTV
+   - him: DO and Pronoun
+   - leave: Verbal Complement and Bare Infinitive Verb, its agent is "him" and it is Intransitive
 9. a
 10. a
 11. a

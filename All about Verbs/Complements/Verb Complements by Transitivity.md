@@ -20,8 +20,10 @@ Verbs are called **Complex Intransitive Verbs** or **Copular-Like**.
 
 - The deposits <span type="group-2">reside</span> **underground**. 
   - underground: **Locative Complement** and **Adverb of Place**
+  - reside: Locative Verb
 - The shift <span type="group-2">lasted</span> **until midnight**.
   - until midnight: **Temporal Complement** and **Adverb of Time**
+  - lasted: Duration Verb
 
 
 
@@ -32,6 +34,14 @@ It tells us the Result or the Manner
   - into poison: **Adverbial Complement** and PP (it represents the result of the transformation)
     - into: head word of the PP
     - poison: object of the preposition
+
+
+
+Also, it works with a special type of verb called **Measure Verbs**:
+
+- The car costs ten thousand dollars
+  - costs: Measure Verb, CIV
+  - ten thousand dollars: **Measure Adverbial Complement** and NP
 
 
 
@@ -137,9 +147,6 @@ Be careful! Not all Complex Transitive Verbs are as flexible as *watch* or *see*
   - put: **CTV** (it has a **DO** and a **Locative Complement**). 
   - the book: **DO** and 
   - on the table: **Locative Complement**
-- I timed the process **at three hours**
-  - timed: **CTV**
-  - at three hours: **Temporal Complement**
 
 <u>==Note==</u>: An Adverbial Complement is <span type="incorrect">not</span> a type of Object Complement. Even though the Adverbial Complement can be after a DO as an Object Complement can, the Object Complement typically characterizes the object itself; meanwhile, the Adverbial Complement simply places that object in a physical context.
 

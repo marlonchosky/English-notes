@@ -40,8 +40,17 @@
    - reside: CIV
    - underground: Locative Adverbial Complement
      - While "the underground" can be a noun (like the London Tube), in this sentence, there is no **Determiner** and no **Preposition**, so it is not a "thing", but describes the **location of the action**
-9. a
-10. a
+9. It was the last night of our vacation
+   - It: Prop Subject and Pronoun
+   - was: CIV
+   - the last night of our vacation: Subject Complement and NP
+     - the: Central Determiner
+     - last: Post-determiner and Ordinal Adjective
+     - night: head word of the NP
+     - of our vacation:  Adjectival Post-Modifier and PP
+       - of: head word of the PP
+       - our vacation: object of the preposition
+10. 
 11. a
 12. a
 13. a

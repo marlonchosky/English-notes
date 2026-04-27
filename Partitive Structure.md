@@ -12,31 +12,48 @@ A Partitive Structure almost always follows this *formula*:
 - **The "Of" Bridge** connects the part to the whole.
 - **The Whole** is the total group or substance being divided (*e.g., the equipment, the water, the miners*)
 
-# The Three Types of Partitives
 
-There are 3 ways we use this structure in English
 
-## Quality/Measure Partitives (The "Container" Rule)
+# The Four Types of Partitives
 
-Used to make uncountable nouns "countable" by putting them into units
+There are 4 ways we use this structure in English
 
-- A **liter of** fuel
-- A **ton of** ore
-- A **piece of** equipment (Since you can't say "*one equipment*", you use the partitive "*piece of*")
+## 1. Quantity Op: Measure / Unitary Partitives (<span type="group-2">Mass → Unit</span>)
 
-## Quantifying Partitives (The "Fraction" Rule)
+They turn a mass "blob" (fuel) into a discrete unit (liter)
 
-Used to talk about a subset of a group. This is where the **Notional Concord** we discussed comes into play.
+- A liter of fuel
+- A ton of ore
+- A piece of equipment (Since you can't say "*one equipment*", you use the partitive "*piece of*")
 
-- **Some of** the workers...
-- **Half of** the shift...
-- **None of** the records...
+## 2. Fraction Op: Quantifying Partitives (<span type="group-2">Set → Fraction</span>)
 
-## Entity Partitives (or Quality Partitive)
-
-Used to identity a specific part of the whole.
-
+- Some of the workers...
+- Half of the shift...
+- None of the records...
 - The last dog of my pets...
+
+## 3. Segment Op: Entity Partitives (<span type="group-2">Whole → Segment</span>)
+
+Used to identify a specific part of the whole.
+
+- The end of the road
+- The top of the hill
+- The lid of the jar
+
+## 4. Category Op: Qualitative / Taxonomic Partitive (<span type="group-2">Class → Sub-type</span>)
+
+- A kind of vacation
+- A type of car
+
+
+
+Others sentences contain a mix of Partitives:
+
+- The last dog of my parents' pets is nice.
+  - of my parents' pets: Quantifying Partitive Structure
+
+
 
 # Subject-Verb Agreement VS Notional Concord
 

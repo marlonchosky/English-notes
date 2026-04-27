@@ -17,6 +17,9 @@ The **Action** (How, When, Where).
 - The river froze **quickly**
 - The river froze **at night**.
 - He ate the pizza **hungrily**
+- I timed the process **at three hours**
+  - at three hours: Measure Adverbial Adjunct, and PP
+
 
 ---
 

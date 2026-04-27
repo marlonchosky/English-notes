@@ -10,5 +10,13 @@
    - left: Ditransitive Prepositional Verb
    - him: DO and pronoun
    - with the bill: Prepositional Complement of the verb and PP
-4. a
-5. 
+4. He agreed with me
+   - agreed: Intransitive Verb and Prepositional Verb
+   - with me: Prepositional Complement of the Verb and PP
+     - with: head of the PP
+     - me: Object of the preposition
+5. a
+6. a
+7. a
+8. a
+9. 

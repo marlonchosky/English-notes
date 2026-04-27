@@ -111,6 +111,19 @@ If you are looking at a pile of samples and expressing a preference for their **
 - **The Grammar**: Object Complement
 - **Label**: Adjective 
 
+
+
+# Adverbs of Place
+
+They fall into two groups
+
+| **Type**             | **Examples**                              | **Function in a CIV structure**               |
+| -------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Simple Adverbs**   | *here, there, nearby, everywhere*         | Links the Subject to a relative location.     |
+| **Compound Adverbs** | *underground, upstairs, outdoors, inside* | Links the Subject to a specific spatial zone. |
+
+
+
 # The Choice of Preposition for the Beneficiary
 
 In English, this is determined by the verb itself.

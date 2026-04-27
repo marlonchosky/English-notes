@@ -31,7 +31,17 @@
      - Busy is special and not all standard adjectives have this, for instance "The tool is **red** drilling" <span type="incorrect">❌</span>
    - drilling: head word of the VP
    - the hole: DO and NP of the Present Participle Verb
-5. a
+5. The paper written last night is ok
+   - The paper written last night: Subject and NP
+     - The: Central determiner
+     - paper: Head word of the NP
+     - written last night: Adjectival Post-modifier and Past Participle Phrase, and also a **Reduced Relative Clause**
+       - written: Head word of the PPP
+       - last night: Temporal Adverbial Adjunct and NP
+         - last: Post-determiner and Deictic Adjective
+         - night: Head word of the NP
+   - is: CIV
+   - ok: Subject Complement and Adjective
 6. a
 7. a
 8. a

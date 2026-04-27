@@ -46,17 +46,24 @@
      - the company: DO and NP, Object of "leaving"
    - was: CIV
    - sad: Subject Complement and Adjective
-9. To my knowledge, the ore is pure
-   - To my knowledge: Sentential Adverbial or Disjunct, and PP
-     - To: head of the PP
-     - my knowledge: Object of the Preposition and NP
-       - my: Possessive Determiner
-   - the ore: Subject and NP
-     - the: Central Determiner
-   - is: CIV
-   - pure: Subject Complement and Adjective
-10. 
-11. a
+9. I agreed that our team is better.
+   - agreed: Intransitive Verb
+   - that our team is better: Noun Clause
+     - that: Complementizer
+     - our team: Subject and NP
+     - is: CIV
+     - better: Subject Complement and Comparative Adjective
+10. The paper which was written last night is ok
+    - The paper [phrase]: Subject and NP
+      - [phrase] = which was written last night: Relative Clause and Adjective Clause
+        - which: Subject and Relative Pronoun
+        - was written: Passive Verb Phrase
+        - was: Auxiliary Verb for the Passive Voice
+        - written: Main Verb in the Passive Voice
+        - last night: Temporal Adverbial Adjunct and NP
+    - is: CIV
+    - ok: Subject Complement and Adjective
+11. 
 12. a
 13. a
 14. a
