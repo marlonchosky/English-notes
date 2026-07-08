@@ -1,44 +1,43 @@
-# Definition
+# Subject Complements
 
-A **Subject Complement (SC)** is the part of the sentence that follows a **Complex Intransitive Verb** (Linking Verb) and provides essential information about the **Subject**.
+A **Subject Complement (SC)** is an obligatory phrase that follows a **Copular (Linking) Verb** to provide essential information about the identity, quality, or state of the grammatical subject.
 
-Because the relationship is always ***Subject = Complement***, we categorize them by the **type of information** they provide (*Identity, Quality, Location, or Action*).
+Because copular verbs lack independent semantic action, they act as an equals sign ($=$) or a transitional arrow (→) connecting the subject directly to its complement ($Subject = Complement$).
 
 ---
 
-# Types
+# Structural Types of Subject Complements
 
-## Identity / Role (Noun Phrase) (<span type="group-1">*Subject = Identity*</span>)
+## 1. Noun Phrase (NP) - Identity / Role
+Assigns a distinct role, title, or identity to the subject. 
+* *He is **a senior developer**.*
+    * **Blueprint:** `Subject [He] = Identity [a senior developer]`
 
-- He is **a senior developer**.
+## 2. Adjective Phrase (AP) - Quality / State
+Attributes a core property, psychological condition, or descriptive quality to the subject.
+* *The EDI system is **stable**.*
+    * **Blueprint:** `Subject [The EDI system] = Quality [stable]`
 
+## 3. Verbal Complements (Non-Finite Clauses) - Intent / Action / Process
+Maps an abstract nominal subject to an action or objective.
 
+### A. Infinitival Clauses (To-Infinitive)
+* *The goal is **to migrate the data**.* (The implicit control $\text{PRO}$ refers to the team).
+* *The goal is **for him to migrate the data**.* ("For" acts as a complementizer allowing an overt clausal agent).
 
-## Quality / State (Adjective Phrase) (<span type="group-1">*Subject = Quality*</span>)
+### B. Gerund Phrases (-ing Nominals)
+* *My job is **developing software**.* (The ongoing process itself identifies the essence of the job).
 
-- The EDI system is **stable**.
+## 4. Clausal Complements (Finite Content / That-Clause) - Facts
+Explicates an abstract subject by presenting a complete propositional fact.
+* *The issue is **that the file is corrupt**.*
+    * **that:** **Complementizer** marking the clausal complement boundary.
 
+---
 
+### ⚠️ Notebook Logic Guardrail: Subject Complement vs. Adverbial Complement
 
-## Location / Place (Adverbial [PP/Adv.P]) (<span type="group-1">*Subject → Location*</span>)
+Do *not* confuse a Subject Complement with an Adverbial Complement. 
 
-- The server is **in the rack**.
-
-
-
-## Purpose / Action (Verbal Complement) (<span type="group-1">*Subject = Action*</span>)
-
-- The goal is **to migrate the data**.
-- The goal is **for him to migrate the data**.
-
-
-
-## Activity / Process (Gerund Phrase) (<span type="group-1">*Subject = Process*</span>)
-
-- My job is **developing software**.
-
-
-
-## Explanation (Clausal Complement) (<span type="group-1">*Subject = Fact*</span>)
-
-- The issue is **that the file is corrupt**.
+* **Subject Complement (Copular frame):** Characterizes *what* the subject is internally (*"The matrix is successful"* → AP Subject Complement).
+* **Adverbial Complement (CIV frame):** Places *where* or *when* the subject is externally (*"The matrix is in the database"* → Locative Adverbial Complement). In this layout, the copula *be* dynamically shifts to behave as a Complex Intransitive Verb (CIV).

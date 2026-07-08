@@ -1,257 +1,183 @@
-# Act out
+## 1. Act Out (Semantic Definition & Structural Contrast)
 
-1. To perform
+### A. To Perform / Execute a Character Trait Deliberately
+This lexical meaning exposes the core difference between **Dynamic Adjectives** and **Stative Adjectives**:
+* **Dynamic Adjectives:** Represent temporary behaviors or traits that an agent can actively "act out" or perform deliberately. Because they involve volition, they can appear in the continuous/progressive tense.
+  * *Example:* *He is being rude.* (He is deliberately acting out a rude behavior).
+* **Stative Adjectives:** Represent inherent, stable states, or unalterable physical physical properties. Because they cannot be volitionally acted out, they are ungrammatical in progressive structures.
+  * *Incorrect:* *\*He is being tall.* (You cannot act out or simulate height).
 
-   - Dynamic adjectives: Qualities you can act out or perform deliberately. You can use them in the Continuous Tense.
-   - Stative adjectives: Qualities you cannot act out because they are inherent states
-     - *He is being tall*. You cannot say this because you cannot act out tallness. 
+### B. To Mimic or Perform Physically
+To represent a narrative, scene, or internal emotion using physical gestures, pantomime, or speech.
+* *Example:* *In the game of Charades, you must **act out** the title of a book without speaking.*
 
-2. To mimic or perform
+---
 
-   Perform a story, a scene, or a feeling using physical movements and speech.
+## 2. The Adverbial Rule: Deictic Time vs. Ordinal Sequence
 
-   - In the game of Charades, you have to **act out** the title of a book without speaking.
+In temporal adverbials, the presence or absence of the central determiner (**the**) changes the structural point of reference entirely:
 
+| Phrase Phrase      | Temporal Reference Type                           | Semantic Meaning                                             | Example Sentence                                          |
+| :----------------- | :------------------------------------------------ | :----------------------------------------------------------- | :-------------------------------------------------------- |
+| **Last night**     | **Deictic** (Relative to *Now*)                   | Yesterday evening calculated directly backwards from the current moment. | *I went to bed early **last night**.*                     |
+| **The last night** | **Anaphoric / Sequential** (Relative to an Event) | The final element or night within a closed, specific sequence or event boundary. | *On **the last night** of the conference, we had dinner.* |
 
+### The "Zero Determiner" Deictic Rule
+English enforces a strict zero-determiner rule for time expressions using *last, next, this, and every* when they calculate a temporal coordinate directly from the speaker's present moment (*now*):
+* *I'll see you **next week**.* (Not: *\*the next week*)
+* *I saw him **this morning**.*
+* *They worked **last night**.*
 
-# The Adverbial Rule and the determiner "The"
+### When is "The Last Night" Obligatory?
+You **must** supply the definite article if *last* is operating as a specific **ordinal ranking** within an enclosed timeline that is disconnected from the present moment.
+* *The project lasted 10 days. On **the last night**, the workers extracted 50 tons of ore.*
+  * **Analysis:** Here, *the last night* refers explicitly to the 10th night of that specific project boundary, not the night before today.
 
-In English, the presence or absence of the central determiner (the) creates two completely different time references:
+---
 
-| Phrase             | Meaning                             | Example                                                 |
-| ------------------ | ----------------------------------- | ------------------------------------------------------- |
-| **Last night**     | Yesterday night (Relate to **now**) | I went to bed early **last night**.                     |
-| **The last night** | The final night of a specific       | On **the last night** of the conference, we had dinner. |
+## 3. The Coordinate Rule: Points in Time vs. Extents of Time
 
-English has a "*zero determiner*" rule for time expressions using *last, next, this, and every* when they are used to calculate time from the present moment:
+Specific, exact points on the clock face or natural solar line behave structurally like **proper names**. Consequently, they completely reject central determiners.
 
-Examples:
+| Temporal Category          | No "The" (Correct Coordinate) | With "The" (Structural Crash) |
+| :------------------------- | :---------------------------- | :---------------------------- |
+| **Clock Point / Landmark** | *until midnight*              | *\*until the midnight*        |
+| **Clock Point / Landmark** | *at noon*                     | *\*at the noon*               |
+| **Specific Timestamp**     | *at 5:00 pm*                  | *\*at the 5:00 pm*            |
 
-- I'll see you **next** week.
-- I saw him **this** morning.
-- They  worked **last** night.
+### Structural Distinction: Midnight vs. Night
+* **Extents / Periods of Time (Noun Durations):** Words like *night, morning, afternoon* describe a dimensional span of time. They act as common nouns and accept determiners (*the morning, the last night*).
+* **Points in Time (Landmark Coordinates):** Words like *midnight, noon, dusk, dawn* denote a single, dimensionless temporal intersection on a scale. They reject determiners entirely.
 
-## When is "The last night" actually correct?
+---
 
-You **must** use "*the*" if you are talking about a sequence that isn't relative to *now*.
+## 4. Syntactic Ambiguity: The `S + have + DO + Past Participle` Matrix
 
-Example:
+The surface string `Subject + have + Object + Past Participle` maps to two entirely distinct underlying syntactic configurations depending on whether the past participle behaves as a **Verb** or an **Adjective**.
 
-- The project lasted 10 days. On **the last night**, the workers extracted 50 tons of ore.
+| Structural Construction       | Syntactic Schema            | Functional Role of Participle                                | Structural Meaning                                           |
+| :---------------------------- | :-------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| **Causative / Action**        | `S + CTV + DO + OC (Verb)`  | The Object Complement behaves as a passive process imposed on the object. | I arranged/caused an external agent to execute the installation. |
+| **Resultative / Stative**     | `S + CTV + DO + OC (Adj)`   | The Object Complement behaves as a stative adjective tracking a current condition. | The direct object is currently resting in a state of completion. |
+| **Monotransitive Possession** | `S + V + [Adj + Head Noun]` | Acts purely as an attributive pre-modifier within the Direct Object NP. | I simply possess/own a specific piece of software that is installed. |
 
-  Here, it isn't "*yesterday night*"; it is the 10th night of the project. In this case, "*the*" is required because "*last*" is acting as a specific **ordinal** rank in a set.
+### The Core Resultative Logic
+When `have` anchors a **Complex Transitive Resultative Structure**, it processes two semantic assertions simultaneously:
+1. **Possession:** *I have the entity.*
+2. **Current State:** *The entity is in [X] state.*
 
+* *I have the app installed.* → I possess the app $+$ The app is currently in an installed state.
+* *I have the report ready.* → I possess the report $+$ The report is currently in a ready state.
+* *I have my eyes open.* → I possess my eyes $+$ My eyes are currently in an open state.
 
+---
 
-# The Rule of "Points in Time" and the determiner "The"
+## 5. Verbs of Desire: The Participial Chameleon with `Want`
 
-In English, specific *points* on the clock are treated as **proper names** rather than common nouns. Just as you wouldn't say "I live in *the* Peru", you don't use a central determiner for specific times of day.
+In the sentence *"I want the mineral samples **tested**,"* the past participle **tested** can oscillate cleanly between an action reading and a state reading depending on your structural context.
 
-| Word category      | No "The" (Correct) | With "The" (Incorrect) |
-| ------------------ | ------------------ | ---------------------- |
-| **Clock Points**   | until midnight     | until *the* midnight   |
-| **Clock Points**   | at noon            | at *the* noon          |
-| **Specific Times** | at 5:00 pm         | at the 5:00 pm         |
+### Reading A: The Clausal Verb Reading (Causative Action)
+* **The Focus:** You are emphasizing the physical *event* or *process* of testing.
+* **The Underlying Syntax:** This is a reduced clausal structure where a passive infinitive marker (*to be*) has been deleted.
+* **Label:** Verb.
+* **Full Underlying String:** *I want the samples [to be] tested.*
 
-## Why is "Midnight" different from "Night"
+### Reading B: The Non-Clausal Adjective Reading (Resultative State)
+* **The Focus:** You are looking at an existing physical pile of samples and demanding that they exhibit a specific *condition* or *trait*.
+* **The Underlying Syntax:** This is a pure **Object Complement** where the participle has been completely converted into an adjective.
+* **Label:** Adjective.
+* **Syntactic Parallel:** Acts exactly like a standard property adjective (*"I want the samples clean"* → *"I want the samples tested"*).
 
-This is where the confusion often happens. *Night* is a **period of time** (a duration), whereas *Midnight* is a **point in time** (a single moment)
+---
 
-- **Periods of time** can take a determiner: "The last **night**", "The **morning**", "The **afternoon**"
-- **Points of time** do not take a determiner: **Midnight, Noon, Dusk, Dawn**
+## 6. Adverbs of Place (Spatial Categorization)
 
+When operating within a **Complex Intransitive Verb (CIV)** framework, adverbs of place serve as obligatory **Locative Adverbial Complements** to anchor the subject in space.
 
+| Adverbial Type       | Structural Composition               | Structural Function in CIV Frames                            | Examples                                  |
+| :------------------- | :----------------------------------- | :----------------------------------------------------------- | :---------------------------------------- |
+| **Simple Adverbs**   | Single-word indexical markers.       | Links the Subject to a relative, speaker-centric location.   | *here, there, nearby, everywhere*         |
+| **Compound Adverbs** | Multi-morphemic bound spatial terms. | Links the Subject to an absolute, defined environmental zone. | *underground, upstairs, outdoors, inside* |
 
-# Analysis of a Syntactic Ambiguity
+---
 
-The structure "==**Subject + have + Object + Past Participle**==" can represent 2 completely ideas depending on whether the Past Participle is acting as a **Verb** (Causative) or an **Adjective** (Resultative/Possessive)
+## 7. Preposition Selection for the Obligatory Beneficiary
 
-| Sentence                                        | Structure                      | Functional Role of "installed"                               | Meaning                                                      |
-| ----------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **I have the app installed**<br />(Causative)   | S + CTV + O + OC (*Verb*)      | The OC is an action done to the object.                      | I arranged for someone (including me)  to<br />install the app |
-| **I have the app installed**<br />(Resultative) | S + CTV + O + OC (*Adjective*) | The OC is the state the object was in.<br />You are focusing on the **status**. | The app is currently in a state of<br />being installed on my device |
-| **I have the installed app**                    | S + V + Adj + DO               | A Pre-Modifier (A description of the object)                 | Just saying I own an installed app                           |
+When mapping an indirect participant or beneficiary argument into a sentence via a Prepositional Phrase, the governing lexical verb dictates the choice between **for** and **to**.
 
-So, in the structure "==**Subject + have + Object + Adjective**==", it means 2 things at once:
+### The Action-Type Directive Rule
+* **Verbs of Obtaining, Creation, or Modification** (*buy, get, make, cook, extract*): Select **for** because the physical labor is performed *on behalf of* an entity.
+* **Verbs of Transfer, Giving, or Communication** (*give, send, tell, show*): Select **to** because an entity or item is actively traversing a path *towards* a target recipient.
 
-1. I have something
-2. That something **is** in a certain state.
+### The Physical Vector Analogy
+* **To:** Implies a direct vector path moving item $X$ directly across a line to target recipient $Y$. (*"I gave a car to my brother."*)
+* **For:** Implies a substitutional value. I performed the transactional extraction or labor task so that the target recipient did not have to expend the energy themselves. (*"I bought a car for my brother."*)
 
-Examples:
+---
 
-- I have the app installed (*meaning*: **I have the app + the app is installed**)
-- I have the report ready (*meaning*: **I have the report + the report is ready**)
-- I have my eyes open (*meaning*: **I have my eyes + my eyes are open.**)
+## 8. Phrasal Quantifiers vs. Quantifier Phrases
 
-Let's compare **have** as *Monotransitive vs Complex Transitive*
+| Structural Classification  | Definition                                                   | Grammatical Composition                                      | Core Examples                               |
+| :------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------ |
+| **Phrasal Quantifier**     | A fixed, multi-word idiom acting as a single unit of quantity. | An unalterable multi-word block mapping directly to a standard determiner slot. | *a lot of, lots of*                         |
+| **Quantifier Phrase (QP)** | A dynamic phrase built around a core head quantifier.        | A flexible head quantifier paired with a variable **Degree Adverb** modifier showing intensity. | *so much, too much, pretty much, very much* |
 
-| Type                   | Example                  | Meaning of "Have"                       |
-| ---------------------- | ------------------------ | --------------------------------------- |
-| **Monotransitive**     | I have the installed app | Possession (I own a specific app)       |
-| **Complex Transitive** | I have the app installed | Result/State (The app is ready for use) |
+* *Analysis of QP flexibility:* In *[so] much* or *[too] much*, the core quantifier is **much**, while the degree modifier can be dynamically swapped out to modify scale.
 
-## For Verbs of Desire
+---
 
-The sentence "==I want the mineral samples **tested**==", the word "**tested**" is a **Past Participle**, which means it is a grammatical "*chameleon*". It can function as a **Verb** (Action) or an **Adjective** (State/Result) depending on your intent.
+## 9. Nominal Coercion: Uncountable to Countable Shift
 
-### When is it a Verb? (Causative/Action)
+Many abstract or mass nouns are fundamentally **uncountable** at the baseline level, but they can undergo **nominal coercion** to transform into countable nouns when changing their semantic scope.
 
-When you are focusing on the **process**
+* **Mass Meaning (General Abstract Substance):** Represents a boundless, un-metered substance or conceptual mass.
+* **Count Meaning (Bounded Instantiation/Type):** Transforms the mass noun into a countable unit to represent distinct *sub-types*, *individual packages*, or *isolated historical events*.
 
-- **The Intent**: I want someone to perform the action of testing these samples
-- **The Grammar**: Passive Infinitive (*with "to be" omitted*)
-- **Label**: Verb
-- **Full Phrase**: I want the samples [to be] tested
+| Base Mass Noun | Uncountable Usage (General Concept) | Countable Usage (Coerced Bounded Unit)      | Count Unit Realization                                       |
+| :------------- | :---------------------------------- | :------------------------------------------ | :----------------------------------------------------------- |
+| **Coffee**     | *I love **coffee**.*                | *I’ll have two **coffees**, please.*        | Shifted to represent standard individual bounded vessels (cups). |
+| **Experience** | *He has much **experience**.*       | *She had many interesting **experiences**.* | Shifted to represent isolated, countable historical timeline events. |
+| **Paper**      | *I need some **paper**.*            | *The **papers** are on my desk.*            | Shifted to represent distinct, bounded physical paper aggregates (documents). |
 
-### When is it an Adjective? (Resultative/State)
+---
 
-If you are looking at a pile of samples and expressing a preference for their **condition**
+## 10. The Notional Subject Matrix
 
-- **The Intent**: I prefer the samples that are already in a tested state. (*Similar to saying "I want the samples clean"*)
-- **The Grammar**: Object Complement
-- **Label**: Adjective 
+The **Notional Subject** represents the semantic core of the assertion—the actual entity or clausal proposition the sentence is talking about—occurring in environments where the **Grammatical Subject** slot has been hijacked by a meaningless dummy placeholder (an *expletive/pronoun specifier* like *There* or *It*).
 
+### The Structural Split
+In a canonical sentence configuration, the Grammatical Subject slot and the Notional Subject match perfectly:
+$$\text{[Noise]}_{(\text{Grammatical + Notional})} \text{ is loud.}$$
 
+When a sentence utilizes an **Existential Definiteness Shift** or a **Clausal Extraposition**, the two structures separate:
+$$\text{[There]}_{(\text{Grammatical Placeholder})} \text{ is [noise]}_{(\text{Notional Subject})}.$$
 
-# Adverbs of Place
+### The Verb Agreement Rule
+The main verb ignores the structural placeholder entirely and copies its plural or singular agreement matching features directly from the **Notional Subject**:
+* *There **is** a **file**.* (Singular Verb $\leftrightarrow$ Singular Notional Subject).
+* *There **are** two **files**.* (Plural Verb $\leftrightarrow$ Plural Notional Subject).
 
-They fall into two groups
+### Extraposition Variant with "It"
+$$\text{[It]}_{(\text{Expletive / Grammatical Placeholder})} \text{ is important [to save the file]}_{(\text{Notional Subject Clause})}.$$
+* **Analysis:** The actual entity carrying the weight of being "important" is the non-finite clause *to save the file*, which has been extraposed to the end.
 
-| **Type**             | **Examples**                              | **Function in a CIV structure**               |
-| -------------------- | ----------------------------------------- | --------------------------------------------- |
-| **Simple Adverbs**   | *here, there, nearby, everywhere*         | Links the Subject to a relative location.     |
-| **Compound Adverbs** | *underground, upstairs, outdoors, inside* | Links the Subject to a specific spatial zone. |
+---
 
+## 11. Meanings of Keep & Want (Locative Complement Calibration)
 
+> ⚠️ **Critical Syntax Guardrail:** As established in your verb master note, when locative prepositional phrases are required by verbs of possession or desire, they function as **Adverbial Complements**, *not* Object Complements. An Object Complement alters or defines the internal quality/identity of the object; an Adverbial Complement assigns an external physical position to that object.
 
-# The Choice of Preposition for the Beneficiary
+### A. Keep (Locative Frame)
+* **Meaning:** To enforce a direct object to stay fixed within a physical location boundary.
+* **Structure:** `Subject + Verb + Direct Object + Adverbial Complement (Locative PP)`
+* **Example:** *He **kept** the records **in the office**.*
 
-In English, this is determined by the verb itself.
+### B. Want (Locative & Object Complement Variations)
+The verb *want* can operate as a Complex Transitive frame, using the complement slot as a mandatory status, action, or position target for the Direct Object.
 
-## The "For" vs "To" Rule
-
-- Verbs of **obtaining** or **creating** (like *buy, get, make, cook*) use "**for**" because the action is done *on behalf* of someone else.
-- Verbs of **transfer** or **communication** (like *give, send, tell, show*) use "**to**" because the object is moving *towards* someone else.
-
-| Verb Group    | Preposition | Example                           |
-| ------------- | ----------- | --------------------------------- |
-| **Obtaining** | **For**     | I bought a car **for** my brother |
-| **Transfer**  | **To**      | I gave a car **to** my brother    |
-
-## The Logic of the "Direction"
-
-Think of the physical movement of the action:
-
-- "**To**": Implies a straight line from me to him. If I **give** it, it goes **to** him
-- "**For**": Implies I did the work so he didn't have to. I went to the dealership **for** him
-
-
-
-# Phrasal Quantifiers vs Quantifier Phrase
-
-## Phrasal Quantifier
-
-Phrasal Quantifiers are quantifiers made up of more than one word. 
-
-Examples: **"A lot of", "Lots of"**
-
-## Quantifier Phrase
-
-It acts as a quantifier too but these aren't fixed words. The modifier part can be replaced.
-
-Examples: **So much, Too much, pretty much, very much** (in these cases, the **main quantifier** is **much** and the **Modifier** is the part that changes to indicate **degree or intensity**)
-
-
-
-# Uncountable and Countable Usage
-
-There are lots of nouns in English that are primarily uncountable, but they become countable depending on how you are using them.
-
-Lots of nouns are uncountable until we want to count specific "*types*" or "*instances*"
-
-| Word           | Uncountable (General)       | Countable (Specific)                               |
-| -------------- | --------------------------- | -------------------------------------------------- |
-| **Coffee**     | I love **coffee**           | I'll have 2 **coffees**, please. (2 cups)          |
-| **Experience** | He has much **experience**. | She had many interesting **experiences**. (Events) |
-| **Paper**      | I need some **paper**.      | The **papers** are on my desk. (Documents)         |
-
-
-
-# Notional Subject
-
-It is the *real* subject of a sentence—the person or thing the sentence is actually about—in cases where the **Grammatical Subject** is just a placeholder (like "*There*" or "*It*").
-
-The term "*Notional*" comes from the word **notion** (an idea). It represents the actual idea or entity being discussed, even if it isn't sitting in the usual subject position at the start of the sentence.
-
-## Why we use this term
-
-In a "*normal*" sentence, the Grammatical Subject and the Notional Subject are the same thing:
-
-​	"**Noise** is loud" (**Noise** = Grammatical and Notional Subject)
-
-But when we flip the sentence structure, they split apart:
-
-​	"**There** is **noise**"
-
-- **Grammatical**: "There" (it takes the first slot)
-- **Notional**: "Noise" (it is the actual topic)
-
-The verb agrees with the notion, not the placeholder
-
-- There **is** a **file**
-- There **are** 2 **files**
-
-Another example with "It":
-
-​	**It** is important **to save the file**
-
-- **Grammatical**: It
-- **Notional**: To save the file (This is the actual thing that is important)
-
-
-
-# Meanings of Keep
-
-## Definition 1
-
-Meaning to cause to remain in a place.
-
-**Structure**: S + V + DO + Locative Complement (*Place Locative*)
-
-**Examples**:
-
-- He kept the records in the office.
-
-
-
-# Meanings of Want
-
-This can be a **Complex Transitive**, like *have, keep, and get*
-
-The **Object Complement** is essentially a "status update" for the **DO**. It tells us the condition, the action, or the location that the subject desires for that object.
-
-**Structure**: **Subject + want + DO + Object Complement**, where the OC can take several forms.
-
-| Category               | Example                             | Functional Role                                       |
-| ---------------------- | ----------------------------------- | ----------------------------------------------------- |
-| **Adjective**          | I want the samples **clean**.       | Describes a quality/state. I want it in a clean state |
-| **Past Participle**    | I want the samples **tested**       | Describes a result/passive action                     |
-| **PP (Locative)**      | I want the samples **on my desk**   | Describes a mandatory location                        |
-| **Infinitival Phrase** | I want the samples **to stay** here | Describes a mandatory action.                         |
-
-## Is the Past Participle an Adjective or a Verb?
-
-The **Past Participle** (*tested, translated, installed*) is the bridge between the two.
-
-- **If it's a State**: It acts as an **Adjective** (The result)
-- **If it's an Action**: It acts as a Verb (The process)
-
-### The "To Be" test
-
-If you can insert "*to be*" before the word, it is technically a **Verb (Passive Voice)**:
-
-- I want the samples **(to be) tested**
-
-If you can replace it with a pure adjective like "*red*" or "*ready*", it is acting as an **Adjective**:
-
-- I want the samples **ready** → I want the samples **tested**
+| Target Complement Category | Example Sentence                       | Core Syntactic Structural Role | Semantic Processing Logic                                    |
+| :------------------------- | :------------------------------------- | :----------------------------- | :----------------------------------------------------------- |
+| **Adjective Phrase**       | *I want the samples **clean**.*        | **Object Complement**          | Demands that the object possess an internal trait or quality. |
+| **Past Participle**        | *I want the samples **tested**.*       | **Object Complement**          | Demands that the object reflect a completed result state.    |
+| **Prepositional Phrase**   | *I want the samples **on my desk**.*   | **Adverbial Complement**       | Demands that the object occupy an obligatory external physical location. |
+| **Infinitival Phrase**     | *I want the samples **to stay here**.* | **Object Complement**          | Imposes a mandatory action constraint directly onto the object. |

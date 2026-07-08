@@ -1,25 +1,14 @@
-# Unergative Verbs vs Ergative Verbs
+# Ergative Verbs vs. Unergative Verbs
 
-## Ergative Verbs
+---
 
-- An Ergative Verb is a verb that can be used as both a **Transitive Verb** (with an object) and an **Unaccusative Verb** (with the object becoming the subject)
-- "The chef melted the butter" vs "The butter melted"
+* * 
 
-## Unergative Verbs
 
-- The subject is a **deliberate actor**. They are in control of the action. These verbs are usually strictly **intransitive** (they don't take a direct object).
-  **Logic**: Subject = Agent (The *Doer*)
 
-- *He ran*: The subject is the actor; he is in control
 
-You can express **result** with this kind of verbs using a *fake reflexive object*, making the verb a CTV. The object is only there to *hold a place* for the adjective tired.
 
-- He ran
-  - He ran himself tired. Here *tired* is a Resultative Complement
-- She cried
-  - She cried herself to sleep.
-- They shouted
-  - They shouted themselves red in the face
+
 
 
 

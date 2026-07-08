@@ -7,20 +7,13 @@
      - the equipment: DO and NP
 
      - inside the shaft: Adverbial Adjunct of Place
-
    - If you intend to mean that the equipment was inside the shaft during the repairment
-
+   
      - repaired: Monotransitive
      - the equipment inside the shaft: DO and NP
      - equipment: head word of the NP
      - inside the shaft: Adjectival Post-Modifier
-
-   - If you intend that the repairment happened, and during this the equipment was inside the shaft
-
-     - repaired: Monotransitive
-     - the equipment: DO and NP
-     - inside the shaft: Depictive Secondary Predicate
-
+   
 2. The workers extracted the ore carefully last night
 
    - extracted: Monotransitive
@@ -65,12 +58,12 @@
 6. The meeting is tomorrow
 
    - is: CIV
-   - tomorrow: Temporal Adverbial Complement
+   - tomorrow: **Adverbial Complement of Time** and Subject Complement
 
 7. The meeting is at 9 o'clock
 
    - is: CIV
-   - at 9 o'clock: Temporal Adverbial Complement, and a Prepositional Phrase
+   - at 9 o'clock: **Temporal Adverbial Complement**, **Subject Complement** and a Prepositional Phrase
      - at: head word of the PP
      - 9 o'clock: object of the preposition and NP
        - 9: head of the NP and Cardinal Numeral
@@ -84,7 +77,7 @@
 9. The food turned into poison.
 
    - turned: CIV
-   - into poison: **Adverbial Complement** and PP (Adverbial because it represents the result of the transformation)
+   - into poison: **Resultative Complement**, **Subject Complement** and PP
      - into: head word of the PP
      - poison: object of the preposition
 
@@ -94,7 +87,7 @@
    - his house: DO and NP
    - his: Possessive Central Determiner
    - house: head word of the NP
-   - relative to a threat: Adverbial Post-Modifier of the Verb, Adverbial of Relation and PP
+   - relative to a threat: Adverbial Post-Modifier/Adjunct of the Verb, Adverbial of Relation or also called Perspective (In what respect/context), and a PP
      - relative to: Complex Preposition and head of the PP
 
 11. The house relative to the park is mine

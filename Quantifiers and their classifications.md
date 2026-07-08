@@ -14,7 +14,7 @@ They can be
 
 ## Determiners
 
-They are Post-determiners
+They are Pre-determiners
 
 - I don't have **many ideas**
 - We don't have **much time**

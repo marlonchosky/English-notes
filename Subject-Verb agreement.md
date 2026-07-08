@@ -117,11 +117,11 @@ While we often use plural nouns with "*no*" (like *No students are*), you can al
 
 # Distributives
 
-Distributes are a specific class of determiners and pronouns that refer to the individual members of a group, rather than the group as a whole.
+Distributives are a specific class of determiners and pronouns that refer to the individual members of a group, rather than the group as a whole.
 Think of them like a *filter* that takes a crowd of people and forces you to look at them one person at a time. Because they focus on the individual, they almost always require singular verbs.
 There are 4 primary distributives in English: **Each, Every, Either and Neither**
 
-<u>Note</u>: Distributes are the head noun of the phrase, because they carry number. Even when they go with *of-phrases*, they are the head of the noun. This is different to normal quantifiers like *all, some, most*, etc. Think of distributives as *thick* or *opaque* quantifiers
+<u>Note</u>: Distributives are the head noun of the phrase, because they carry number. Even when they go with *of-phrases*, they are the head of the noun. This is different to normal quantifiers like *all, some, most*, etc. Think of distributives as *thick* or *opaque* quantifiers
 
 ## Each
 
