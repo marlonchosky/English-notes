@@ -13,6 +13,8 @@ Indefinite determiners fall into two primary syntactic categories based on wheth
 | **Indefinite Articles**    | *a, an*                                                      | Singular Count Nouns | *a server*, *an issue*                 |
 | **Indefinite Quantifiers** | *some, any, no, every, each, many, much, few, little, several* | Mass or Count Nouns  | *some data*, *many bugs*, *every node* |
 
+> 📌 **Notebook Cross-Reference:** While words like *every* and *each* function syntactically as Indefinite Determiners here, their internal scope mechanics are categorized as **Distributive Operators**. See `Distributive and Dual-Domain Quantifiers.md` for their full group-size rules.
+
 ---
 
 ## 2. Core Syntactic Behavior
