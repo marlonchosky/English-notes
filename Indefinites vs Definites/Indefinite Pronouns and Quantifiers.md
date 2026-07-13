@@ -92,13 +92,3 @@ Distributive indefinite pronouns like *each, either, neither, every one* act as 
 | **Every**                   | **YES** (*every day*)  | **NO** ❌                    | N/A (Requires *Everyone / Every one*) |
 | **Everyone / Something**    | **NO** ❌               | **YES** (*something clean*) | Strictly Singular                     |
 | **Each / Either / Neither** | **YES** (*each day*)   | **YES** (*each of them*)    | Opaque (Strictly Singular)            |
-
-|      |      |      |      |
-| :--- | :--- | :--- | :--- |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
