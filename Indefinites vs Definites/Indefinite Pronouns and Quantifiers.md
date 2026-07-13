@@ -36,14 +36,14 @@ Compound indefinite pronouns are formed by merging an indefinite determiner (*so
 1. **Strict Singular Agreement:** Even though *everyone* or *everybody* refers to a group, all compound indefinite pronouns are **grammatically singular** and require singular verb agreement:
    * *Everyone **is** ready.* (Not: *\*Everyone are ready*)
    * *Nobody **has** seen the report.*
-2. **Post-Modification Structure:** Because compound pronouns are already complete lexical heads, adjectives **cannot pre-modify** them. Instead, adjectival modifiers must sit directly **after** the compound pronoun (Post-posed Adjectives):
+2. **Post-Modification Structure (Lexical Head Restriction):** Because compound pronouns are fused into closed, complete lexical heads, adjectives **cannot pre-modify** them. Instead, adjectival modifiers must sit directly **after** the compound pronoun (Post-Posed Adjectives):
    * *Incorrect:* *\*I need an interesting something.*
    * *Correct:* *I need **something interesting**.*
    * *Correct:* *There is **nobody available**.*
 
 ---
 
-## 3. Assertive vs. Non-Assertive Domains (*Some* vs. *Any*)
+## 3. Assertive vs. Non-Assertive Domains & Epistemic Scope
 
 Indefinite pronouns and quantifiers adhere to specific polarity domains:
 
@@ -52,6 +52,9 @@ Indefinite pronouns and quantifiers adhere to specific polarity domains:
   * *I found **some** data.* / *There is **someone** at the door.*
 * **Polite Requests / Offers Exception:** Used in questions when a positive response is anticipated or solicited.
   * *Would you like **some** coffee?* / *Can **somebody** help me?*
+
+> 📌 **Epistemic Extension:** Just as *some* + singular count noun (*some developer*) carries epistemic value, the compound series (*somebody, someone, something, somewhere*) inherently carries an **epistemic feature**. It specifies that a single concrete entity exists, but its exact identity is unknown, uncertain, or intentionally unstated by the speaker.
+> * ***Somebody** called you.* ($\rightarrow$ A real person actually called, but I do not know their identity).
 
 ### B. Non-Assertive Domain (*Any- / Anybody / Anything*)
 * Typically restricted to **negative sentences** and **open questions** where existence is not asserted.
@@ -64,7 +67,7 @@ Indefinite pronouns and quantifiers adhere to specific polarity domains:
 
 ## 4. Opaque vs. Transparent Indefinite Pronouns
 
-As established in your `Notional Agreement.md` and `Subject-Verb Agreement.md` master notes, indefinite pronouns split when triggering finite verb agreement in partitive (*of*-phrase) structures:
+Indefinite pronouns split when triggering finite verb agreement in partitive (*of*-phrase) structures:
 
 ### A. Transparent Indefinite Pronouns (Look-Through Mechanism)
 Indefinite pronouns like *all, some, most, half, none* lack inherent number features. In partitive structures, the finite verb **looks through** the pronoun to copy the number of the noun inside the PP:
@@ -89,3 +92,13 @@ Distributive indefinite pronouns like *each, either, neither, every one* act as 
 | **Every**                   | **YES** (*every day*)  | **NO** ❌                    | N/A (Requires *Everyone / Every one*) |
 | **Everyone / Something**    | **NO** ❌               | **YES** (*something clean*) | Strictly Singular                     |
 | **Each / Either / Neither** | **YES** (*each day*)   | **YES** (*each of them*)    | Opaque (Strictly Singular)            |
+
+|      |      |      |      |
+| :--- | :--- | :--- | :--- |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
