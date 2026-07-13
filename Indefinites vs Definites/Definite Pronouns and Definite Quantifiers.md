@@ -1,58 +1,72 @@
-# Definite Pronouns and Definite Quantifiers: Mechanics & Distribution
+# Definite Pronouns and Definite Quantifiers
 
-While indefinite terms deal with non-specific or open-ended amounts, **Definite Pronouns** and **Definite Quantifiers** pick out specific, identifiable entities, exact bounded quantities, or exhaustive complete sets.
+Definite Pronouns and Definite Quantifiers refer to specific, identifiable entities or bounded, closed domains. 
 
 ---
 
 ## 1. Definite Pronouns
 
-A **Definite Pronoun** acts as the sole structural Head of a Noun Phrase (NP/DP) and refers directly to a specific, identifiable referent.
+Definite Pronouns replace an entire Determiner Phrase (DP) while maintaining specific referential identity.
 
-### Sub-Classes of Definite Pronouns
-1. **Personal Pronouns:** *I, me, you, he, him, she, her, it, we, us, they, them*
-   * *The server crashed, but **it** is back online now.*
-2. **Possessive Pronouns:** *mine, yours, his, hers, ours, theirs*
-   * *That code is **yours**.*
-3. **Demonstrative Pronouns:** *this, that, these, those* (when standing alone without a head noun)
-   * ***These** are the valid logs.*
-4. **Reflexive / Reciprocal Pronouns:** *myself, yourself, each other, one another*
+| Sub-Class                  | Member Items                             | Syntactic Role / Example                                     |
+| :------------------------- | :--------------------------------------- | :----------------------------------------------------------- |
+| **Personal**               | *it*, *he*, *she*, *they*                | Replaces an explicit antecedent DP (*"The cluster crashed, but **it** recovered."*) |
+| **Possessive**             | *mine*, *yours*, *his*, *hers*, *theirs* | Stands as the head of an independent argument phrase (*"My build failed, but **yours** passed."*) |
+| **Demonstrative**          | *this*, *that*, *these*, *those*         | Head of Subject/Object DP without a noun (*"**These** are the logs you asked for."*) |
+| **Reflexive / Reciprocal** | *itself*, *themselves*, *each other*     | Coreferential argument (*"The nodes sync with **each other**."*) |
 
 ---
 
-## 2. Definite Quantifiers & Universal Operators
+## 2. Definite Quantifiers & Bounded Domain Mechanics
 
-A **Definite Quantifier** provides an exact, non-negotiable numerical count or an exhaustive, complete selection of a set.
+A quantifier is **Definite** when it operates over a **closed, fully identified domain** or is anchored by a definite central determiner.
 
-### A. Cardinal Numbers (Exact Quantifiers)
-Cardinal numbers (*one, two, three, twenty*) function as definite quantifiers because they establish a precise, fixed numerical boundary.
-* *I tested **three modules**.* (Exact count: 3)
+### A. Cardinal Definite Quantifiers (Bounded / Anchored)
+Unlike bare cardinal numbers, which act as indefinite quantifiers (*"I saw three bugs"* = open set), **Cardinal Definite Quantifiers** measure an exact, pre-identified set:
+
+* **Anchored by Definite $D^0$:**
+  * *"I tested **the three** modules."* $\rightarrow$ *(Refers to a specific, previously established set of 3 modules).*
+* **Pronominal over Bounded Domain:**
+  * *"We reviewed four pull requests, and **three** passed."* $\rightarrow$ *(Pronominal head referring to an exact 3 out of the bounded set of 4).*
 
 ### B. Universal Quantifiers (Exhaustive Operators)
-Quantifiers such as *all* and *both* quantify a set by exhausting 100% of its domain without leaving an open-ended remainder.
-* ***Both** systems passed verification.* (Exhaustive over a closed set of two)
-* ***All** logs were archived.* (Exhaustive over the target domain)
+Universal quantifiers exhaust 100% of a bounded contextual domain:
 
-*(Note: For individualized universal operators like "each" and "every", see the dedicated **Distributive and Dual-Domain Quantifiers.md** note).*
+* **All:** Exhausts unbounded or collective plural/mass domains (*"All logs were archived"*).
+* **Both:** Exhausts a strictly dual-bounded domain ($N=2$) (*"Both nodes are active"*).
 
 ---
 
 ## 3. Structural Comparison Matrix
 
-| Class                              | Identifiability / Scope     | Member Items               | Example Construction             |
-| :--------------------------------- | :-------------------------- | :------------------------- | :------------------------------- |
-| **Definite Pronoun**               | Specific, identified entity | *it, mine, this, those*    | ***This** is broken.*            |
-| **Definite (Cardinal) Quantifier** | Exact numerical measurement | *one, four, one hundred*   | *We deployed **four** nodes.*    |
-| **Universal Quantifier**           | Exhaustive (100% of domain) | *all, both*                | ***Both** nodes are active.*     |
-| **Indefinite Quantifier**          | Open-ended / Non-specific   | *some, many, several, few* | *We deployed **several** nodes.* |
+| Class                     | Identifiability / Scope          | Member Items                      | Structural Example                  |
+| :------------------------ | :------------------------------- | :-------------------------------- | :---------------------------------- |
+| **Definite Pronoun**      | Specific, identified entity      | *it, mine, this, those*           | *"**This** is broken."*             |
+| **Definite Quantifier**   | Exact count of a **bounded set** | *the three, both, four (of them)* | *"I tested **the three** modules."* |
+| **Universal Quantifier**  | Exhaustive (100% of domain)      | *all, both*                       | *"**Both** nodes are active."*      |
+| **Indefinite Quantifier** | Open-ended / Non-specific        | *some, many, three (bare)*        | *"I tested **three** modules."*     |
 
 ---
 
 ## 4. Subject-Verb Agreement Mechanics
 
-1. **Definite Pronouns:** Agree strictly with their inherent person/number features (*it is*, *they are*).
-2. **Cardinal Definite Quantifiers:**
-   * *One* triggers singular agreement (*One server is down*).
-   * Numbers > 1 trigger plural agreement (*Two servers are down*).
-3. **Universal Quantifiers:**
-   * *Both* and *All* (with plural nouns) trigger plural agreement (*Both options work* / *All options work*).
-   * *All* (with mass nouns) triggers singular agreement (*All water is treated*).
+Agreement with Definite Pronouns and Definite Quantifiers depends on the head features of the DP or the "Look-Through" transparency of partitive constructions:
+
+1. **Definite Pronoun Primacy:**
+   * Personal, demonstrative, and possessive pronouns trigger agreement matching their grammatical number:
+     * *"**This** is broken."* (Singular)
+     * *"**These** are broken."* (Plural)
+     * *"**Mine** is running."* / *"**Mine** are running."* (Matches features of the omitted head noun).
+
+2. **Cardinal Definite Quantifier Agreement:**
+   * Cardinal numbers $>1$ force plural verb agreement:
+     * *"The four nodes **are** healthy."*
+     * *"We had four nodes; three **were** added."*
+   * Cardinal number $1$ forces singular verb agreement:
+     * *"One of the microservices **fails** during health checks."* *(Direct structural head primacy of 'one').*
+
+3. **Partitive "Look-Through" Mechanism (*All of / Both of*):**
+   * **Universal *Both*:** Always triggers plural agreement (*"Both of the endpoints **have** returned 200 OK"*).
+   * **Universal *All of* (Transparent Quantifier):** The quantifier $Q^0$ is transparent, allowing the verb to inspect the complement noun inside the prepositional phrase:
+     * *"All of the archive logs **are** scheduled for deletion."* $\rightarrow$ *(Look-through to plural 'logs' $\rightarrow$ plural verb)*.
+     * *"All of the legacy code **has** been refactored."* $\rightarrow$ *(Look-through to uncountable mass 'code' $\rightarrow$ singular verb)*.
