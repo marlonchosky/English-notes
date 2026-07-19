@@ -1,5 +1,7 @@
 The server is running at peak capacity.
 
+The EDI file is **hard** to parse.*
+
 I'll scan it to get on the lift
 
 The last 2 dogs of my parents' pets are nice. 

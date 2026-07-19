@@ -37,8 +37,15 @@ Purely unergative intransitive verbs (like *run, laugh, cry*) cannot take a resu
 When a resultative state represents a radical change in physical form, shape, or division, English frequently uses a **Prepositional Phrase** starting with **"into"** instead of a pure adjective.
 
 - **The Logic:** As you noted, "into" inherently denotes **movement, transformation, or transition** from one state of being to another.
-- **Structure:** `[Subject] + [Unaccusative Verb] + [Resultative PP]`
+- **Structure:** `[Subject] + [Verb] + [Resultative PP]`
 - **Examples:**
   - *The vase broke **into pieces**.* (Resulting state: it is now in pieces) 
   - *The ice melted **into water**.* (Resulting state: it is now liquid)
+  - The food turned into poison (turned here is a CIV)
   - *The caterpillar turned **into a butterfly**.* (Resulting state: completely transformed)
+
+
+
+**Unaccusative Transition:** $\text{The vase broke } [\text{into pieces}]_{\text{(Subject Resultative PP Complement)}}$
+
+**Unergative Transition:** $\text{He cried } [\text{himself}]_{\text{(DO)}} \ [\text{to sleep / into a frenzy}]_{\text{(Object Resultative PP Complement)}}$
