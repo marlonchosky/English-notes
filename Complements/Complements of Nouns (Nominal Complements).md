@@ -1,6 +1,6 @@
-# Complements of Nouns (Noun Complements)
+# Complements of Nouns (Nominal Complements)
 
-A **Noun Complement** is a clausal or prepositional phrase argument that is structurally selected by an abstract noun to complete its meaning. It answers the structural question: *"The [Noun] of what?"* or *"To do what?"*
+A **Nominal Complement** is a clausal or prepositional phrase argument that is structurally selected by an abstract noun to complete its meaning. It answers the structural question: *"The [Noun] of what?"* or *"To do what?"*
 
 Unlike optional adjective modifiers (e.g., *"The decision [from yesterday]"*), a complement completes the internal semantic definition of the noun itself.
 
