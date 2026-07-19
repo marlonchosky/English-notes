@@ -33,6 +33,12 @@ Explicates an abstract subject by presenting a complete propositional fact.
 * *The issue is **that the file is corrupt**.*
     * **that:** **Complementizer** marking the clausal complement boundary.
 
+> Note: 
+>
+> Use **Gerunds** when you want to focus on the **ongoing performance/process** of the work.
+>
+> Use **Infinitives** when you want to focus on the **obligation, goal, or contract mandate**.
+
 ---
 
 ### ⚠️ Notebook Logic Guardrail: Subject Complement vs. Adverbial Complement
