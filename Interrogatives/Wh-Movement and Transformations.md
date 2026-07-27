@@ -77,10 +77,3 @@ When a $wh$-word originates inside a Prepositional Phrase ($PP$), English licens
 | **Target Landing Site**               | Non-argument position ($\text{Spec, CP}$)   | Canonical Subject position ($\text{Spec, IP}$)               |
 | **Auxiliary Inversion / Do-Support?** | **YES** (Non-Subject $Wh$)                  | **NO** (*The endpoint is easy to test.*)                     |
 | **Crash Diagnostic**                  | *\*What you deployed?* (Missing Do-Support) | *\*Who did deploy this?* (Spurious Do-Support in Subject-Wh) |
-
-|      |      |      |
-| :--- | :--- | :--- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
