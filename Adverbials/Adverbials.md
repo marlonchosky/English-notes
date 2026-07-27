@@ -14,7 +14,7 @@ Before categorizing an adverbial by its semantic meaning, it must be categorized
 | **Complement** | Mandatory info; the sentence framework crashes or shifts meaning without it. | **Adverbial / Measure Complement** | **Constructor Argument**<br />(Required Parameter) |
 
 * **Adjunct:** *He coded **in the office**.* (Optional Context → Adjunct)
-* **Complement:** *He is **in the office**.* (Obligatory location required by the CIV/Copula "is").
+* **Complement:** *He is **in the office**.* (Obligatory location required by the CIV "is").
 
 ---
 
