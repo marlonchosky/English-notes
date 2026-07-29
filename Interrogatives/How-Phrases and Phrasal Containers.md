@@ -24,6 +24,9 @@ Depending on what head word **`how`** modifies, the resulting container takes on
   2. *"**[How many servers]**$_i$ crashed $t_i$?"*
      - **Container:** Determiner Phrase (Subject DP).
      - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `many` (Quantifier/Determiner) $\rightarrow$ `servers` (Head Noun).
+  3. *"**[How much ground]**$_i$ did we cover $t_i$?"*
+     - **Container:** Determiner Phrase (Direct Object of *cover*).
+     - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `much` (Quantifier/Determiner) $\rightarrow$ `ground` (Head Noun).
 
 ---
 

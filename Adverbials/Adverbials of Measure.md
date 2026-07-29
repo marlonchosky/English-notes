@@ -50,3 +50,7 @@ The syntax used to inquire about magnitudes depends on whether the underlying do
 > **Syntactic Rule:**
 > - `How much` quantifies abstract continuous magnitudes directly (*cost*, *time*, *weight*).
 > - `How many` must be paired with a plural countable noun serving as a discrete unit of measurement (*dollars*, *hours*, *kilometers*).
+
+>  ⚠️ **Syntax Guardrail (Object vs. Adverbial):** 
+>
+> While *"How much ground did we cover?"* inquires about distance semantically, `[How much ground]` is syntactically a **Direct Object DP** (promotes to passive: *"Ten miles were covered"*). Contrast this with *"How many kilometers did we walk?"*, where `[How many kilometers]` is a **Spatial Measure Adjunct (DP functioning adverbially)**.
