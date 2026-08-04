@@ -91,3 +91,71 @@ Nouns, adverbs, and adjectives inside these containers cannot be left behind whe
   * $\text{* How}_i \text{ do you have [ } t_i \text{ much money]?}$
   * $\text{* How}_i \text{ did he drive [ } t_i \text{ fast]?}$
   * $\text{* How}_i \text{ is he [ } t_i \text{ tall]?}$
+
+---
+
+## 5. Scale Types & Gradability Constraints
+
+Degree operators (`how`, `so`, `too`, `very`, `extremely`) require the head word (Adjective or Adverb) to project a **gradable scale** (a continuous spectrum of intensity or amount).
+
+### A. Gradable vs. Non-Gradable (Binary) Heads
+* **Gradable Heads:** Accept scalar degree operators because they exist on a continuum.
+  * *Examples:* `how fast`, `how resilient`, `how frequent`.
+* **Non-Gradable (Absolute / Binary) Heads:** Express absolute states or binary logic ($0$ or $1$, True or False). They cannot accept degree operators without crashing syntactically.
+  * *Crash:* `*How boolean is that configuration setting?`
+  * *Crash:* `*How binary is that database state?`
+  * *Fix:* Replace the degree query with a polar or categorical query: *"Is that configuration setting boolean?"* or *"What type of data setting is that?"*
+
+### B. Prescriptive Standard vs. Technical Domain Coercion
+* **Prescriptive Standard (Bounded / Absolute Scales):** Traditional grammar treats absolute maximums as non-gradable. Words like *optimal*, *unique*, *perfect*, or *empty* represent fixed endpoints. Under strict prescriptive rules, they reject degree modifiers (`*How optimal...`, `*very unique`).
+* **Technical Domain Coercion:** In software engineering and computer science, absolute terms are routinely "coerced" into gradable scales to measure degree of convergence, efficiency, or approximation relative to a theoretical baseline.
+  * *Engineered Scale:* *"How optimal is this database indexing strategy?"* (Interpreted as: *"To what degree does this approach approach 100% mathematical optimality?"*)
+
+---
+
+## 6. Structural Constraints in Degree Containers
+
+### A. Degree Operator Stacking Constraint (Specifier Slot Competition)
+A head word (Adjective or Adverb) possesses only a single specifier position ($\text{Spec, AP}$ or $\text{Spec, AdvP}$) for degree modification. Stacking multiple degree specifiers on the same head causes a structural crash.
+
+* **The Rule:** You cannot combine an interrogative degree specifier (`how`) with a declarative degree specifier (`very`, `so`, `too`, `extremely`).
+* **Structural Representation:**
+  $$\text{AP} \longrightarrow \mathbf{\text{Spec, AP}} \ [\text{Degree Operator}] + \text{Head } [\text{Adjective/Adverb}]$$
+* **Crash:** `*How very fast can this query execute?` (Both `How` and `very` compete for $\text{Spec, AdvP}$).
+* **Fix:** Retain only the interrogative operator: *"How fast can this query execute?"*
+
+---
+
+## 7. DP-Internal Syntax & Prepositional Transformations
+
+### A. Adjective-Determiner Inversion in Degree DPs
+In standard indefinite Noun Phrases ($\text{DPs}$), the sequence follows the canonical order: 
+$$\text{Determiner } (a/an) + \text{Adjective} + \text{Noun}$$
+* *Example:* `a large buffer size`
+
+However, when an Adjective Phrase ($\text{AP}$) is modified by a fronted degree operator (`how`, `so`, `too`, `as`), the entire $[\text{Degree Specifier} + \text{Adjective}]$ complex is forced to invert and front-load **before** the indefinite article $a/an$:
+
+$$\mathbf{[\text{How} + \text{Adjective}]} + \mathbf{a/an} + \text{Head Noun}$$
+
+* **Crash:** `*How a large buffer size do we need?`
+* **Crash:** `*A how large buffer size do we need?`
+* **Grammatical Output:** *"**How large a** buffer size do we need?"*
+* **Other Paradigms:**
+  * *"It was **so large a** payload that it crashed the service."*
+  * *"That is **too complex a** system to maintain."*
+
+---
+
+## 8. Complex Pied-Piping in Prepositional Containers
+
+When a $How$-phrase sits inside the object position of a Prepositional Phrase ($\text{PP}$), $Wh$-Movement provides two transformation paths:
+
+### A. Preposition Stranding (Informal / Standard)
+The nominal container ($\text{DP}$) front-loads to $\text{Spec, CP}$, leaving the preposition stranded at its base position in the Verb Phrase.
+* *"**How high a throughput** did the cluster benchmark **at**?"*
+* *"**How detailed a log file** are you looking **for**?"*
+
+### B. Pied-Piping (Formal Structural Fronting)
+The preposition hitches a ride with the entire complex $[\text{Degree DP}]$ container, moving the entire $\text{PP}$ structure up to $\text{Spec, CP}$.
+* *"**At how high a throughput** did the cluster benchmark?"*
+* *"**For how detailed a log file** are you looking?"*
