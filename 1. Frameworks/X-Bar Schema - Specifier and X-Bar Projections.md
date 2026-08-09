@@ -43,12 +43,15 @@ A **Specifier** is a phrasal constituent that sits as the left-hand sister of $X
 
 ### B. Core Roles Across Syntactic Categories
 
-| Phrase Category ($XP$)           | What Occupies `Spec`?         | Example Construction                            | Role of the Specifier                                        |
-| :------------------------------- | :---------------------------- | :---------------------------------------------- | :----------------------------------------------------------- |
-| **Complementizer Phrase ($CP$)** | $Wh$-Operators                | **[Which service]**$_i$ *can you deploy $t_i$?* | Landing site for fronted interrogative operators ($\text{Spec, CP}$). |
-| **Tense Phrase ($TP$)**          | Clause Subject                | **[The system]** *will restart.*                | Primary Subject position of the clause ($\text{Spec, TP}$).  |
-| **Determiner Phrase ($DP$)**     | Inflected Genitive Possessors | **[The company's]** *database*                  | Possessive anchor for the central noun phrase ($\text{Spec, DP}$). |
-| **Adjective Phrase ($AP$)**      | Degree Modifiers              | **[Extremely]** *fast*                          | Measures intensity or scale ($\text{Spec, AP}$).             |
+| Phrase Category ($XP$)           | What Occupies `Spec`?            | Example Construction                            | Role of the Specifier                                        |
+| :------------------------------- | :------------------------------- | :---------------------------------------------- | :----------------------------------------------------------- |
+| **Complementizer Phrase ($CP$)** | $Wh$-Operators                   | **[Which service]**$_i$ *can you deploy $t_i$?* | Landing site for fronted interrogative operators ($\text{Spec, CP}$). |
+| **Tense Phrase ($TP$)**          | Clause Subject                   | **[The system]** *will restart.*                | Primary Subject position of the clause ($\text{Spec, TP}$).  |
+| **Determiner Phrase ($DP$)**     | Inflected Genitive Possessors    | **[The company's]** *database*                  | Possessive anchor for the central noun phrase ($\text{Spec, DP}$). |
+| **Adjective Phrase ($AP$)**      | Degree Modifiers                 | **[Extremely]** *fast*                          | Measures intensity or scale ($\text{Spec, AP}$).             |
+| **Adverb Phrase ($AdvP$)**       | Interrogative / Degree Operators | **[How]** fast / **[So]** quickly               | Modifies degree, intensity, or acts as a $Wh$-operator ($\text{Spec, AdvP}$). |
+
+
 
 ---
 
