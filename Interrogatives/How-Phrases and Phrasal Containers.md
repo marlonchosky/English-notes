@@ -13,26 +13,44 @@ When $Wh$-Movement occurs, **`how`** acts as an operator, fronting the **entire 
 Depending on what head word **`how`** modifies, the resulting container takes on one of three distinct phrase types:
 
 ### A. Determiner Phrase / Noun Phrase (DP / NP Container)
+
+Target: Modifies a quantifier (*much/many*) or an attributive adjective modifying an indefinite noun. 
+
+1. **Quantifier DP Container:**
+
 * **Structure:** `[DP [AdvP How] + [D° much/many] + [N° Head Noun]]`
 * **Target Modified:** The quantifier/determiner *much* or *many*.
 * **Syntactic Function:** Direct Object, Subject, or Complement of a Transitive Verb.
+* **Examples:** 
+  * *"**[How much money]**$_i$ do you have $t_i$?"*
+    - **Container:** Determiner Phrase (Direct Object of *have*).
+    - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `much` (Quantifier/Determiner) $\rightarrow$ `money` (Head Noun).
+  * *"**[How many servers]**$_i$ crashed $t_i$?"*
+    - **Container:** Determiner Phrase (Subject DP).
+    - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `many` (Quantifier/Determiner) $\rightarrow$ `servers` (Head Noun).
+  * *"**[How much ground]**$_i$ did we cover $t_i$?"*
+    - **Container:** Determiner Phrase (Direct Object of *cover*).
+    - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `much` (Quantifier/Determiner) $\rightarrow$ `ground` (Head Noun).
+
+2. **Inverted Degree DP Container (Adjective + Article + Noun):**
+
+* **Structure:** `[DP [AP How + Adjective] + [D° a/an] + [N° Head Noun]]`
+* **Target Modified:** An attributive adjective modifying an indefinite singular head noun.
+* **Syntactic Function:** Direct Object, Subject, or Complement of a Transitive Verb / Copula.
 * **Examples:**
-  1. *"**[How much money]**$_i$ do you have $t_i$?"*
-     - **Container:** Determiner Phrase (Direct Object of *have*).
-     - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `much` (Quantifier/Determiner) $\rightarrow$ `money` (Head Noun).
-  
-  2. *"**[How many servers]**$_i$ crashed $t_i$?"*
-     - **Container:** Determiner Phrase (Subject DP).
-     - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `many` (Quantifier/Determiner) $\rightarrow$ `servers` (Head Noun).
-  3. *"**[How much ground]**$_i$ did we cover $t_i$?"*
-     - **Container:** Determiner Phrase (Direct Object of *cover*).
-     - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `much` (Quantifier/Determiner) $\rightarrow$ `ground` (Head Noun).
+  * *"**[How large a buffer size]**$_i$ do we need $t_i$?"*
+    - **Container:** Determiner Phrase (Direct Object of *need*).
+    - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `large` (Attributive Adjective) $\rightarrow$ `a` (Central Determiner) $\rightarrow$ `buffer size` (Head Noun).
+  * *"**[How severe a penalty]**$_i$ was imposed $t_i$?"*
+    - **Container:** Determiner Phrase (Subject DP).
+    - **Word Classes:** `how` (Degree Adverb) $\rightarrow$ `severe` (Attributive Adjective) $\rightarrow$ `a` (Central Determiner) $\rightarrow$ `penalty` (Head Noun).
+* **Syntactic Mechanism:** The degree operator *how* modifies *large*, forcing the `[How + Adj]` complex to invert ahead of the central determiner *a/an*, dragging the entire DP container to $\text{Spec, CP}$.
 
 ---
 
 ### B. Adverb Phrase (AdvP Container)
 * **Structure:** `[AdvP [Adv° How] + [Adv° Head Adverb]]`
-* **Target Modified:** A manner, degree, measure, or temporal/frequency adverb.
+* **Target Modified:** Another adverb (manner, frequency, degree).
 * **Syntactic Function:** Adverbial Adjunct or Adverbial Complement.
 * **Examples:**
   1. *"**[How much]**$_i$ do you love this $t_i$?"*
