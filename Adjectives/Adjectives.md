@@ -29,13 +29,20 @@ They aren't the standard way to speak today; they usually appear in English due 
 
 # Classification of Adjectives
 
-- Exclusive: Object Complement and Depictive Adjectives
-  - Object Complement
-    - Evaluative
-    - Resultative
-  - Depictive Adjectives
-    - Physical
-    - Evaluative
+```text
+1. By Syntactic Function (Sentence Structure):
+   ├── Adjuncts (Optional secondary predicates)
+   └── Complements (Required secondary predicates / Object Complements)
+
+2. By Semantic Role (Meaning relative to the Action):
+   ├── Depictive (Describes state DURING the event)
+   │   ├── Depictive Adjunct: "I ate the pizza cold."
+   │   └── Depictive Complement: "I found the walls yellow."
+   │
+   └── Resultative (Describes state RESULTING FROM the event)
+       ├── Resultative Complement: "They painted the wall yellow."
+       └── Resultative Adjunct: "He hammered the metal flat."
+```
 
 # English Adjective-Verb Relationships
 
