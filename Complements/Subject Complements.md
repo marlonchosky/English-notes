@@ -47,3 +47,27 @@ Do *not* confuse a Subject Complement with an Adverbial Complement.
 
 * **Subject Complement (Copular frame):** Characterizes *what* the subject is internally (*"The matrix is successful"* → AP Subject Complement).
 * **Adverbial Complement (CIV frame):** Places *where* or *when* the subject is externally (*"The matrix is in the database"* → Locative Adverbial Complement). In this layout, the copula *be* dynamically shifts to behave as a Complex Intransitive Verb (CIV).
+
+---
+
+## 5. Measure / Distance Complements (Temporal/Spatial Equivalence)
+
+In copular/linking structures involving time, distance, or spatial separation, a **Measure Phrase** or **Directional Prepositional Phrase** can function as a **Subject Complement** to define the quantitative separation or location of the subject relative to a reference anchor.
+
+### A. Temporal Measure for Spatial Distance
+In commuting and travel contexts, English frequently allows temporal duration units (minutes, hours) to function as spatial distance metrics.
+
+* **Sentence:** *We are three minutes from the office.*
+  * **Blueprint:** Subject [`We`] + Copula [`are`] + Subject Complement [`three minutes from the office`]
+  * **Anatomy:** Measure Phrase (`DP`: *three minutes*) + Source PP (`PP`: *from the office*).
+
+### B. Complex PP Predicates with Intransitive Prepositions
+When an intransitive preposition (like *away*) heads the spatial separation phrase, the entire complex PP acts as a Subject Complement describing the spatial state of the subject.
+
+* **Explicit Anchor:** *We are three minutes away from the office.*
+  * **Blueprint:** Subject [`We`] + Copula [`are`] + Subject Complement [`three minutes away from the office`]
+  * **Anatomy:** `[PP [DP three minutes] [P° away] [PP from the office]]`
+
+* **Implicit / Elliptical Anchor:** *We are three minutes away.*
+  * **Blueprint:** Subject [`We`] + Copula [`are`] + Subject Complement [`three minutes away [from X]`]
+  * **Anatomy:** The Source PP Anchor (`from the office`) is dropped via contextual ellipsis when responding to a shared question (*"How far are we?"*).

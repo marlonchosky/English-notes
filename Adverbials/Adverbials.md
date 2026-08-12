@@ -24,6 +24,11 @@ Before categorizing an adverbial by its semantic meaning, it must be categorized
 Answers: **Where?** / **Whither?** (Direction) / **Whence?** (Origin)
 * **Location:** *The database resides **on the cloud**.* (Locative Adverbial Complement).
 * **Direction:** *Push the code **to the repository**.* (Directional Adverbial Complement).
+* **Origin / Source Anchor (Whence?):** The baseline reference point ($Point\ A$) from which a spatial-distance vector is calculated.  
+  * Example (Explicit Anchor): 
+    * *We are three minutes away **from the office**.* (PP Source Anchor completing the locative measure phrase).  
+  * *Example (Implicit Anchor / Ellipsis):* 
+    * *We are three minutes away **[from the office]**.* (The PP Anchor is dropped via contextual ellipsis when responding to a shared question).
 
 ### B. Adverbial of Time (Temporal Coordinates)
 Answers: **When?** / **How often?** (Frequency)
