@@ -32,9 +32,32 @@ When quantifying spatial or temporal distance in predicate structures (such as c
 
 ---
 
-### Summary Rules for Your Notebook
+## Prepositional Selection & Semantic Orientation
 
-| Structural Type        | Contains $P^0$ (*away*)? | Specifier Status                         | Preposition License              | Example Construction                           |
-| :--------------------- | :----------------------: | :--------------------------------------- | :------------------------------- | :--------------------------------------------- |
-| **Complex Measure PP** |          ✅ Yes           | Measure phrase sits in $\text{Spec, PP}$ | Strictly selects ***from***      | *"We are three minutes away from the office."* |
-| **Juxtaposed DP + PP** |           ❌ No           | None (Bypasses $\text{Spec, PP}$)        | Flexible (*from*, *to*, *until*) | *"We are two minutes to the meeting."*         |
+The choice of preposition inside the anchor phrase dictates the directional vector, categorized by the following two core usage types:
+
+### 1. Source Orientation (`from`)
+- **Function:** Establishes a backward-looking distance vector or starting anchor point relative to an origin.
+- **Scope:** Seamlessly supports **both spatial distance and temporal duration**.
+- **Examples:**
+  - *"We are three minutes **from** the office."* (Temporal unit measuring spatial/commuting distance from a source origin).
+  - *"The server rack is ten meters **from** the main gateway."* (Physical spatial distance from an origin).
+- **Compatibility:** Can appear in both Complex Measure PPs (*"three minutes away **from** the office"*) and Juxtaposed structures (*"three minutes **from** the office"*).
+
+### 2. Target / Terminal Orientation (`to`, `until`)
+- **Function:** Establishes a forward-looking scalar span or countdown leading toward a destination endpoint, event, or upcoming deadline/threshold.
+- **Examples:**
+  - *"We are two minutes **to** the meeting."* (Temporal countdown toward an upcoming scheduled event).
+  - *"We are ten minutes **until** launch."* (Temporal countdown to a deadline threshold).
+- **Compatibility & Restrictions:** - **Temporal / Event Only:** Naturally licenses countdowns to scheduled times or events.
+  - **Spatial Prohibition:** Cannot be paired with physical spatial distance phrases for fixed locations (e.g., ❌ *"We are three minutes to the office"* is ungrammatical/unnatural).
+- *Strict Guardrail:* **Event/Time Only.** Target prepositions (`to`, `until`) **cannot** anchor to physical geographic locations. Saying ❌ *"We are three minutes to the office"* or ❌ *"I'm 3 meters to the office"* results in a severe ungrammatical crash.
+
+---
+
+## Summary Rules for Your Notebook
+
+| Structural Type | Contains $P^0$ (*away*)? | Preposition License & Meaning | Spatial vs. Temporal Behavior | Example Construction |
+| :--- | :---: | :--- | :--- | :--- |
+| **Complex Measure PP** | ✅ Yes | **Source (`from`)**: Establishes origin vector. | Supports time-as-space distance measurements. | "We are three minutes away **from** the office." |
+| **Juxtaposed DP + PP** | ❌ No | **Flexible (`from`, `to`, `until`)**: Shifts between sources and forward targets. | **`from`** works for space & time; **`to`/`until`** are restricted to temporal/event countdowns. | "We are two minutes **to** the meeting." |
