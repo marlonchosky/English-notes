@@ -30,6 +30,27 @@ Answers: **Where?** / **Whither?** (Direction) / **Whence?** (Origin)
   * *Example (Implicit Anchor / Ellipsis):* 
     * *We are three minutes away **[from the office]**.* (The PP Anchor is dropped via contextual ellipsis when responding to a shared question).
 
+#### 🛠️ Deep Dive Case Study: "We are three minutes away from the office"
+
+To analyze how modern generative syntax breaks down complex spatial measure phrases across structural layers and functional lenses: 
+```
+text [TP [DP We] [T° are] [PP [DP three minutes] [P' [P° away] [PP from [DP the office]]]]] 
+```
+
+- **Lens 1: Syntactic Category (Anatomy / Category)**  
+  - **`We`**: Determiner Phrase ($\text{DP}$) / Noun Phrase ($\text{NP}$) — Subject.  
+  - **`are`**: Copular / Linking Verb ($V^0$).  
+  - **`three minutes away from the office`**: Complex Prepositional Phrase ($\text{PP}$).    
+    - **`three minutes`**: Determiner Phrase ($\text{DP}$) / Measure Phrase — Sits in the **Specifier** position ($\text{Spec, PP}$) to measure vector magnitude.
+    - **`away`**: Intransitive Preposition ($P^0$) — Serves as the **Head** of the main $\text{PP}$.    
+    - **`from the office`**: Prepositional Phrase ($\text{PP}$) — Serves as the **Prepositional Complement** (Source Anchor) selected by $P^0$ `away`. 
+
+- **Lens 2: Grammatical Function (Job Role)**  
+  - **`three minutes away from the office`**: Functions as a **Subject Complement** (completing the copula `are`).  
+  - **`from the office`**: Functions internally as a **Source Anchor Complement** to `away`.
+
+
+
 ### B. Adverbial of Time (Temporal Coordinates)
 Answers: **When?** / **How often?** (Frequency)
 * **Point in Time:** *The backup starts **at midnight**.* (Temporal Adverbial Adjunct).
