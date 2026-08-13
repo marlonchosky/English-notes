@@ -62,26 +62,25 @@ To analyze how modern generative syntax breaks down complex spatial measure phra
 To analyze how modern generative syntax breaks down spatial measure clauses without an explicit intransitive preposition under the Complex Intransitive Verb (CIV) + Adverbial Complement framework:
 
 ```text
-[TP [DP We] [T° are] [PP [DP three minutes] [PP from [DP the office]]]]
+[TP [DP We] [T° are] [SC [DP three minutes] [PP from [DP the office]]]]
 ```
 
-- **Lens 1: Syntactic Category (Anatomy / Category)**
+- **Syntactic Category (Anatomy / Category Lens)**
 
   - **`We`:** Determiner Phrase ($\text{DP}$) / Noun Phrase ($\text{NP}$) — Grammatical Subject.
 
-  - **`are`:** Complex Intransitive Verb ($\text{CIV} / V^0$) — Demands an obligatory locative/measure argument to complete its meaning.
+  - **`are`:** Copular / Linking Verb ($V^0$) acting as a stative equals sign ($=$).
 
-  - **`three minutes from the office`:** Prepositional Phrase ($\text{PP}$) functioning as an **Adverbial Complement of Measure and Location**.
-    - **`three minutes`:** Determiner Phrase ($\text{DP}$) / Measure Phrase — Sits in the Specifier position ($\text{Spec, PP}$) to measure the quantitative time-distance vector.
-    - **`from the office`:** Prepositional Phrase ($\text{PP}$) — Serves as the Source Anchor Complement ($Point\ A$) selected directly by the phrase architecture.
-      - **`from`:** Preposition ($P^0$) — Head of the Source Anchor PP.
-      - **`the office`:** Determiner Phrase ($\text{DP}$) — Complement of Preposition $P^0$.
+  - **`three minutes from the office`:** **Subject Complement** phrase consisting of two distinct sequential elements:
+    - **`three minutes`:** Measure Determiner Phrase ($\text{DP}$) indicating scalar magnitude (functions directly as the initial partition of the Subject Complement, **not** as a Specifier).
+    - **`from the office`:** Prepositional Phrase ($\text{PP}$) acting as the Source Reference Anchor.
 
 - **Lens 2: Grammatical Function (Job Role)**
 
-  - **`three minutes from the office`:** Functions as the mandatory **Adverbial Complement** required by the locative CIV *are*. Deleting this phrase causes a structural crash (*"We are"* is incomplete).
+  - **`three minutes from the office`:** Functions collectively as a single **Subject Complement** specifying temporal-spatial separation equivalence to the subject.
+  - **`three minutes`**: Defines the scalar magnitude of spatial separation.
 
-  - **`from the office`:** Functions internally as the Source Anchor establishing the baseline reference point.
+  - **`from the office`:** Provides the structural anchor point (`Point A`) completing the spatial distance relationship.
 
 ```text
 Subject Complement (Measure / Spatial Equivalence)
@@ -89,8 +88,6 @@ Subject Complement (Measure / Spatial Equivalence)
     Measure Phrase (DP)          Source Anchor (PP)
         [three minutes]           [from the office]
 ```
-
-
 
 
 
