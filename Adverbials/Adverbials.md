@@ -24,30 +24,73 @@ Before categorizing an adverbial by its semantic meaning, it must be categorized
 Answers: **Where?** / **Whither?** (Direction) / **Whence?** (Origin)
 * **Location:** *The database resides **on the cloud**.* (Locative Adverbial Complement).
 * **Direction:** *Push the code **to the repository**.* (Directional Adverbial Complement).
-* **Origin / Source Anchor (Whence?):** The baseline reference point ($Point\ A$) from which a spatial-distance vector is calculated.  
-  * Example (Explicit Anchor): 
-    * *We are three minutes away **from the office**.* (PP Source Anchor completing the locative measure phrase).  
-  * *Example (Implicit Anchor / Ellipsis):* 
-    * *We are three minutes away **[from the office]**.* (The PP Anchor is dropped via contextual ellipsis when responding to a shared question).
+* **Origin / Source Anchor (Whence?):** The baseline reference point ($Point\ A$) establishing spatial or geographical starting coordinates. When selected by a locative Complex Intransitive Verb (CIV), it forms part of an obligatory Adverbial Complement.
+  * *Example:* *"We are three minutes from the office."* 
+    * `are` = CIV; `three minutes from the office` = Adverbial Complement of Measure and Location.
 
 #### 🛠️ Deep Dive Case Study: "We are three minutes away from the office"
 
-To analyze how modern generative syntax breaks down complex spatial measure phrases across structural layers and functional lenses: 
+To analyze how modern generative syntax breaks down complex spatial measure phrases under the Complex Intransitive Verb (CIV) + Adverbial Complement framework:
 ```
-text [TP [DP We] [T° are] [PP [DP three minutes] [P' [P° away] [PP from [DP the office]]]]] 
+[TP [DP We] [T° are] [PP [DP three minutes] [P' [P° away] [PP from [DP the office]]]]]
 ```
 
 - **Lens 1: Syntactic Category (Anatomy / Category)**  
-  - **`We`**: Determiner Phrase ($\text{DP}$) / Noun Phrase ($\text{NP}$) — Subject.  
-  - **`are`**: Copular / Linking Verb ($V^0$).  
-  - **`three minutes away from the office`**: Complex Prepositional Phrase ($\text{PP}$).    
-    - **`three minutes`**: Determiner Phrase ($\text{DP}$) / Measure Phrase — Sits in the **Specifier** position ($\text{Spec, PP}$) to measure vector magnitude.
+  - **`We`**: Determiner Phrase ($\text{DP}$) / Noun Phrase ($\text{NP}$) — Grammatical Subject.
+  - **`are`**: Complex Intransitive Verb ($\text{CIV} / V^0$) — Demands an obligatory locative/measure argument.
+  - **`three minutes away from the office`**: Complex Prepositional Phrase ($\text{PP}$) functioning as an **Adverbial Complement of Measure / Location**.
+    - **`three minutes`**: Determiner Phrase ($\text{DP}$) / Measure Phrase — Sits in the Specifier position ($\text{Spec, PP}$) to measure vector magnitude.
     - **`away`**: Intransitive Preposition ($P^0$) — Serves as the **Head** of the main $\text{PP}$.    
     - **`from the office`**: Prepositional Phrase ($\text{PP}$) — Serves as the **Prepositional Complement** (Source Anchor) selected by $P^0$ `away`. 
 
 - **Lens 2: Grammatical Function (Job Role)**  
-  - **`three minutes away from the office`**: Functions as a **Subject Complement** (completing the copula `are`).  
-  - **`from the office`**: Functions internally as a **Source Anchor Complement** to `away`.
+  - **`three minutes away from the office`**: Functions as the mandatory **Adverbial Complement** required by the CIV *are*.
+  - **`from the office`**: Functions internally as a Source Anchor Complement to the head preposition *away*.
+
+```text
+ PP (Complex Prepositional Phrase)
+        /  |  \
+     Spec  P°  PP Complement
+      |    |        |
+   [3 mins] away [from the office]
+```
+
+
+
+#### 🛠️ Deep Dive Case Study: "We are three minutes from the office"
+
+To analyze how modern generative syntax breaks down spatial measure clauses without an explicit intransitive preposition under the Complex Intransitive Verb (CIV) + Adverbial Complement framework:
+
+```text
+[TP [DP We] [T° are] [PP [DP three minutes] [PP from [DP the office]]]]
+```
+
+- **Lens 1: Syntactic Category (Anatomy / Category)**
+
+  - **`We`:** Determiner Phrase ($\text{DP}$) / Noun Phrase ($\text{NP}$) — Grammatical Subject.
+
+  - **`are`:** Complex Intransitive Verb ($\text{CIV} / V^0$) — Demands an obligatory locative/measure argument to complete its meaning.
+
+  - **`three minutes from the office`:** Prepositional Phrase ($\text{PP}$) functioning as an **Adverbial Complement of Measure and Location**.
+    - **`three minutes`:** Determiner Phrase ($\text{DP}$) / Measure Phrase — Sits in the Specifier position ($\text{Spec, PP}$) to measure the quantitative time-distance vector.
+    - **`from the office`:** Prepositional Phrase ($\text{PP}$) — Serves as the Source Anchor Complement ($Point\ A$) selected directly by the phrase architecture.
+      - **`from`:** Preposition ($P^0$) — Head of the Source Anchor PP.
+      - **`the office`:** Determiner Phrase ($\text{DP}$) — Complement of Preposition $P^0$.
+
+- **Lens 2: Grammatical Function (Job Role)**
+
+  - **`three minutes from the office`:** Functions as the mandatory **Adverbial Complement** required by the locative CIV *are*. Deleting this phrase causes a structural crash (*"We are"* is incomplete).
+
+  - **`from the office`:** Functions internally as the Source Anchor establishing the baseline reference point.
+
+```text
+Subject Complement (Measure / Spatial Equivalence)
+            /                        \
+    Measure Phrase (DP)          Source Anchor (PP)
+        [three minutes]           [from the office]
+```
+
+
 
 
 
