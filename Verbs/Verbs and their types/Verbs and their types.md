@@ -1,23 +1,3 @@
-# Ergative Verbs vs. Unergative Verbs
-
----
-
-* * 
-
-
-
-
-
-
-
-
-
-# Core CIVs (The Copulas) vs Secondary CIVs (The Resultatives/Depictives)
-
-TODO
-
-
-
 # Static vs Dynamic Linking Verbs
 
 English has 2 main types of linking verbs: those that describe a **state** and those that describe a **change**.
