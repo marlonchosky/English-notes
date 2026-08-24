@@ -91,6 +91,21 @@ Subject Complement (Measure / Spatial Equivalence)
 
 
 
+### 💡 Syntactic Guardrail: Locative Fronting & The Pronoun Inversion Constraint
+
+When deictic locative adverbs (*here*, *there*) are shifted/fronted to the clause-initial position for presentation or focus, English applies a strict morphological constraint on Subject-Verb inversion:
+
+1. **Full Noun Phrase / Lexical DP $\rightarrow$ Triggers Full Inversion:**
+   * Canonical: *"The bus comes here."*
+   * Fronted: *"Here **comes the bus**."* ($Adv + V + Subject\ DP$)
+   * *Rule:* Lexical noun phrases allow the finite verb to invert around the subject.
+
+2. **Unstressed Personal Pronoun $\rightarrow$ Blocks Inversion:**
+   * Canonical: *"It is here."*
+   * Fronted: *"Here **it is**."* ($Adv + Subject\ DP + V$)
+   * Crash: ❌ *\*"Here is it."*
+   * *Rule:* Clitic/weak personal pronouns (*it, he, she, they*) must remain adjacent to the fronted operator and cannot be stranded after the verb.
+
 ### B. Adverbial of Time (Temporal Coordinates)
 Answers: **When?** / **How often?** (Frequency)
 * **Point in Time:** *The backup starts **at midnight**.* (Temporal Adverbial Adjunct).
