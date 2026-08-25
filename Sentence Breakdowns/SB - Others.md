@@ -12,16 +12,6 @@
    - strange noises: DO and NP
      - strange: Attributive Adjective
      - noises: head word
-4. I have something that I can sit next to
-   - I: Subject and Pronoun
-   - have: Monotransitive
-   - something: DO
-   - that I can sit next to: Adjective Relative Clause
-     - that: Relative Pronoun and Object of the preposition "next to"
-     - I: Subject
-     - can: Modal Verb
-     - sit: Intransitive Verb
-     - next to: Complex Preposition and a Stranded Preposition
 5. I have something to sit next to
    - something: DO and NP
    - to sit next to: Adjectival Post-Modifier, and an Infinitive Phrase

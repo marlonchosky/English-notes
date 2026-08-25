@@ -15,9 +15,6 @@
 3. The river ran dry
    - ran: CIV
    - dry: Subject Complement, and Resultative Adjective Phrase
-4. The milk went sour
-   - went: CIV. It expresses a transition into a bad state.
-   - sour: Subject Complement, and Resultative Adjective Phrase
 5. The milk went into the fridge
    - went: CIV
    - into the fridge: Locative Adverbial Complement and PP

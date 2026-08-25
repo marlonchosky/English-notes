@@ -21,13 +21,6 @@
    - were: Auxiliar Verb in the Passive Voice
 
    - processed: Past participle Verb in the Passive Voice
-4. A number of miners are waiting
-
-   - A number of miners: Subject and NP, and a Quantifying Partitive Structure
-     - A number of: Phrasal Quantifier and Central Determiner
-     - miners: Head word of the NP 
-   - are: Auxiliar verb
-   - waiting: Intransitive Verb
 5. The number of miners is 50
    - The number of miners: Subject and NP
      - The: Central determiner

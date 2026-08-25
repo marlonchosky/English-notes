@@ -27,10 +27,6 @@
    - left: CTV
    - the door: DO and NP
    - open: OC and Resultative Adjectival Phrase
-7. I left the keys on the counter
-   - left: CTV
-   - the keys: DO and NP
-   - on the counter: Locative Adverbial Complement and PP
 8. I saw him leave
    - saw: CTV
    - him: DO and Pronoun

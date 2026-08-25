@@ -65,10 +65,6 @@
     - setting: Verb Complement, Present Participle Verb
 14. I saw him clean his room / I saw him cleaning his room
     - Both sentences are almost similar, but the first uses a Bare Infinitive Phrase and the second one uses a Present Participial Phrase.  
-15. I saw the room clean
-    - saw: CTV
-    - the room: DO and NP
-    - clean: OC and Depictive Adjective
 16. I saw the room cleaned
     - saw: CTV
     - the room: DO and NP
@@ -97,8 +93,4 @@
       - to: head of the PP, acts as the **Limit/Boundary Marker**
       - a minimum: Object of the preposition and NP
         - a: Central determiner
-21. He baked the bread brown
-    - baked: CTV
-    - the bread: DO and NP
-    - brown: OC and Adjectival Phrase and a Resultative Objective Secondary Predicate
 
