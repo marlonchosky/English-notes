@@ -63,8 +63,13 @@ $$\text{[If + Past Simple / Subjunctive Were]}, \quad \text{[would / could / mig
 >
 > 💡 **The Periphrastic *Were to + Verb* Construction:**
 > To emphasize greater hypothetical remoteness or tentativeness, the past simple verb can be replaced with **`were to + Base Form`**:
-> * *Canonical:* *If I **had** the root credentials, I would patch the vulnerability immediately.*
-> * *Periphrastic:* *If I **were to have** the root credentials, I would patch the vulnerability immediately.*
+> * *Canonical (Lexical):* *If I **had** the root credentials, I would patch the vulnerability immediately.*
+> * *Periphrastic (Lexical):* *If I **were to have** the root credentials, I would patch the vulnerability immediately.*
+>
+> 📌 **Stative / Linking Verb Exception (*Copula Be*):**
+> When the condition clause already contains the linking verb ***be*** (stative/copular predicate), it is not necessary to use *were to be*. The single subjunctive copula *were* is the standard, preferred choice:
+> * 🟢 **Standard / Preferred:** *If the servers **were** online, alerts would not trigger.*
+> * 🟡 **Unnecessary / Heavy:** *If the servers **were to be** online...* (Adds structural overhead without additional semantic value).
 
 ---
 
@@ -138,19 +143,19 @@ $$\text{[If + Past Simple]}, \quad \text{[would have + Past Participle]}$$
 
 ### A. Conditional Inversion (Without *If*)
 In formal syntax, *if* can be omitted via **Subject-Auxiliary Inversion ($T$-to-$C$ Movement)**:
-* **First Conditional (*Should*):** 
+* **First Conditional (*Should*):**
   * *Canonical:* *If you need any assistance, contact support.*
   * *Inverted:* ***Should you need** any assistance, contact support.*
-* **Second Conditional (*Were* / *Were to*):** 
+* **Second Conditional (*Were* / *Were to*):**
   * *Copular Inverted:* ***Were the server** offline, alerts would trigger.*
   * *Lexical Inverted:* ***Were I to have** the root credentials, I would patch the vulnerability immediately.*
-* **Third Conditional (*Had*):** 
+* **Third Conditional (*Had*):**
   * *Canonical:* *If the team had run the unit tests, they would have caught the regression.*
   * *Inverted:* ***Had the team run** the unit tests, they would have caught the regression.*
 
 > 📖 **Companion Deep Dives:**
 > * `First Conditional - Epistemic Should and Inversion.md` — Derivation and bare infinitive constraints.
-> * `Conditional Inversion and Negative Constraints.md` — Negative inversion mechanics, periphrastic *were to*, and the `*n't` prohibition.
+> * `Conditional Inversion and Negative Constraints.md` — Negative inversion mechanics, copular vs. lexical stranding, and the `*n't` prohibition.
 
 ### B. Alternative Condition & Precautionary Markers
 * **Unless:** Semantically equivalent to *if... not* (*"**Unless** we run the migration, data remains locked"*).
