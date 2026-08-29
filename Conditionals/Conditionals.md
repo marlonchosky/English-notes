@@ -41,7 +41,7 @@ $$\text{[If + Present Simple]}, \quad \text{[\textbf{will / can / may / might / 
 * *If you **finish** the code review early, you **can deploy** the feature branch.*
 * *If you rerun the script, it **might resolve** the race condition.*
 
-> ⚠️ **Syntax Guardrail:** The *If*-clause uses the **Present Simple** to express future reference. Do *not* insert *will* into the *If*-clause (* *If it will rain...* is ungrammatical in standard English).
+> ⚠️ **Syntax Guardrail:** The *If*-clause uses the **Present Simple** to express future reference. Do *not* insert *will* into the *If*-clause (* \*If it will rain...* is ungrammatical in standard English).
 
 ---
 
@@ -60,6 +60,11 @@ $$\text{[If + Past Simple / Subjunctive Were]}, \quad \text{[would / could / mig
 * *If the server **were** more resilient, it **could handle** the sudden traffic spike.*
 
 > 💡 **The Irrealis *Were* (Subjunctive):** In formal syntax and standard academic English, *were* is used across all persons (including *I, he, she, it*) in the condition clause (*"If I were you..."*, *"If the cluster were active..."*).
+>
+> 💡 **The Periphrastic *Were to + Verb* Construction:**
+> To emphasize greater hypothetical remoteness or tentativeness, the past simple verb can be replaced with **`were to + Base Form`**:
+> * *Canonical:* *If I **had** the root credentials, I would patch the vulnerability immediately.*
+> * *Periphrastic:* *If I **were to have** the root credentials, I would patch the vulnerability immediately.*
 
 ---
 
@@ -122,7 +127,7 @@ $$\text{[If + Past Simple]}, \quad \text{[would have + Past Participle]}$$
 | :--- | :--- | :--- | :--- | :--- |
 | **Zero** | Present Simple | Present Simple | Timeless / General | Factual (100%) |
 | **First** | Present Simple | `will / might / can / should` + Base | Future | Real / Probable |
-| **Second** | Past Simple / `were` | `would / could / might` + Base | Present / Future | Counterfactual / Hypothetical |
+| **Second** | Past Simple / `were` / `were to + Base` | `would / could / might` + Base | Present / Future | Counterfactual / Hypothetical |
 | **Third** | Past Perfect (`had` + V3) | `would / could / might` + `have` + V3 | Past | Counterfactual (Impossible) |
 | **Mixed (Past $\rightarrow$ Present)** | Past Perfect (`had` + V3) | `would` + Base Form | Past $\rightarrow$ Present | Unreal Past $\rightarrow$ Unreal Present |
 | **Mixed (Present $\rightarrow$ Past)** | Past Simple / `were` | `would have` + V3 | Present $\rightarrow$ Past | Unreal State $\rightarrow$ Unreal Past |
@@ -132,14 +137,20 @@ $$\text{[If + Past Simple]}, \quad \text{[would have + Past Participle]}$$
 ## 7. Advanced Syntactic Variations & Companion Deep Dives
 
 ### A. Conditional Inversion (Without *If*)
-In formal syntax, *if* can be omitted via **Subject-Auxiliary Inversion ($T$-to-$C$ Movement)**[cite: 16]:
-* **First Conditional (*Should*):** ***Should you need** any assistance, contact support.*
-* **Second Conditional (*Were*):** ***Were the server** offline, alerts would trigger.*
-* **Third Conditional (*Had*):** ***Had we known** about the latency spike, we would have scaled up.*
+In formal syntax, *if* can be omitted via **Subject-Auxiliary Inversion ($T$-to-$C$ Movement)**:
+* **First Conditional (*Should*):** 
+  * *Canonical:* *If you need any assistance, contact support.*
+  * *Inverted:* ***Should you need** any assistance, contact support.*
+* **Second Conditional (*Were* / *Were to*):** 
+  * *Copular Inverted:* ***Were the server** offline, alerts would trigger.*
+  * *Lexical Inverted:* ***Were I to have** the root credentials, I would patch the vulnerability immediately.*
+* **Third Conditional (*Had*):** 
+  * *Canonical:* *If the team had run the unit tests, they would have caught the regression.*
+  * *Inverted:* ***Had the team run** the unit tests, they would have caught the regression.*
 
 > 📖 **Companion Deep Dives:**
-> * `First Conditional - Epistemic Should and Inversion.md` — Derivation and bare infinitive constraints[cite: 30].
-> * `Conditional Inversion and Negative Constraints.md` — Negative inversion mechanics and the `*n't` prohibition.
+> * `First Conditional - Epistemic Should and Inversion.md` — Derivation and bare infinitive constraints.
+> * `Conditional Inversion and Negative Constraints.md` — Negative inversion mechanics, periphrastic *were to*, and the `*n't` prohibition.
 
 ### B. Alternative Condition & Precautionary Markers
 * **Unless:** Semantically equivalent to *if... not* (*"**Unless** we run the migration, data remains locked"*).
