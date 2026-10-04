@@ -42,9 +42,9 @@
 
 ### 6. I left him with the bill
 - I: Subject and Pronoun
-- left: CTV
+- left: Prepositional Transitive Verb
 - him: DO
-- with the bill: Prepositional Object Complement, PP
+- with the bill: Prepositional Complement and PP
 
 ### 7. The milk went sour
 - The milk: Subject and NP

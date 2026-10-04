@@ -80,12 +80,6 @@
     - kept: CTV
     - the records: DO and NP
     - in the office: Locative Adverbial Complement, and PP 
-19. Keep it to yourself
-    - Keep: CTV
-    - it: DO
-    - to yourself: Prepositional Complement of the Verb and PP. Specifies a **Scope/Limit Marker**
-      - to: head of the PP. Here, **to** is not a a path; it is a fence that stops the action from going any further
-      - yourself: object of the preposition and reflexive pronoun
 20. Keep the noise to a minimum
     - Keep: CTV
     - the noise: DO and NP
