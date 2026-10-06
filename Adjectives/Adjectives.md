@@ -1,7 +1,7 @@
 # Attributive Adjectives vs Predicate Adjectives
 
 - Attributive Adjectives come before the noun (*the **interesting** book*)
-- Predicate Adjectives come after a verb and relates back to a noun (*The book is **interesting***)
+- Predicate Adjectives come after a verb and relate back to a noun (*The book is **interesting***)
 
 # Postpositive Adjectives
 
@@ -9,23 +9,17 @@ They are adjectives that are placed immediately after the noun they modify.
 They aren't the standard way to speak today; they usually appear in English due to 3 specific reasons:
 
 1. Fixed Phrases and Legal/Official Titles
-
    Examples: *Attorney general, court martial, heir apparent, poet laureate, notary public*.
 
 2. Indefinite Pronouns
-
-   When using words—like something, anything, someone, or nobody—, the adjective must go after the noun
-
-   Examples: I want to tell you something *important*. (You cannot say important something) 
+   When using compound indefinite pronouns—like *something, anything, someone, or nobody*—the adjective must go after the noun head.
+   Examples: *I want to tell you something **important**.* (You cannot say **important something*).
 
 3. Adjectives with *Extra Weight* (Adjective Phrases)
-
-   If an adjective is part of a longer phrase, we often move the whole thing behind the noun to prevent the sentence from becoming "top-heavy"
-
+   If an adjective is part of a longer phrase (taking its own complement), we move the whole phrase behind the noun to prevent the phrase from becoming "top-heavy".
    Examples:
-
-   - Standard: The available rooms
-   - Postpositive: The rooms available for tonight.
+   - Standard: *The available rooms*
+   - Postpositive: *The rooms **available for tonight**.*
 
 # Classification of Adjectives
 
@@ -36,12 +30,38 @@ They aren't the standard way to speak today; they usually appear in English due 
 
 2. By Semantic Role (Meaning relative to the Action):
    ├── Depictive (Describes state DURING the event)
-   │   ├── Depictive Adjunct: "I ate the pizza cold."
-   │   └── Depictive Complement: "I found the walls yellow."
+   │   ├── Depictive Adjunct: "I ate the pizza cold." / "The river glowed blue."
+   │   └── Depictive Complement: "I found the walls yellow." / "She considers him brilliant."
    │
    └── Resultative (Describes state RESULTING FROM the event)
-       ├── Resultative Complement: "They painted the wall yellow."
-       └── Resultative Adjunct: "He hammered the metal flat."
+       │
+       ├── Resultative Complements (Obligatory State / Endpoints)
+       │   ├── Resultative Object Complement (with Complex Transitive Verbs):
+       │   │   • "He hammered the metal flat." (The hammering causes the object to reach a final bounded state: [metal → flat]).
+       │   │   • "They painted the wall yellow."
+       │   │   • "He licked the plate clean."
+       │   │
+       │   ├── Resultative Subject Complement (Obligatory Unaccusative / Copular Endpoints):
+       │   │   • "The door blew open." (Without 'open', the predicate trajectory is incomplete).
+       │   │   • "The food turned bad." (Aspectual/copular frame requiring an AP Subject Complement).
+       │   │
+       │   └── Prepositional Resultative Complement (PP Realization - The "Into" Transition Rule):
+       │       • "The vase broke into pieces."
+       │       • "The ice melted into water."
+       │       • "The food turned into poison."
+       │       • "He cried himself into a frenzy." (Unergative shifted to CTV via a Reflexive Fake Object).
+       │       💡 The "Into" Transition Rule: When the result marks a radical physical transformation, 
+       │          phase change, or division into parts, English selects a PP headed by "into". 
+       │          Because the verb frame depends on this transition to mark culmination, the PP is 
+       │          an obligatory Prepositional Resultative Complement (not an optional adjunct).
+       │
+       └── Resultative Adjuncts (Optional Endpoints on Complete Events)
+           ├── With Unaccusative Verbs (Adjective Realization):
+           │   • "The river froze solid." (The primary clause "The river froze" is fully complete; 'solid' optionally bounds the final state).
+           │   • "The lake water froze thick."
+           │
+           └── With Transitive Verbs (Optional Prepositional Endpoints):
+               • "He wiped the table to a shine." ("He wiped the table" is a complete monotransitive event; 'to a shine' optionally specifies the resulting degree of polish).
 ```
 
 # English Adjective-Verb Relationships
