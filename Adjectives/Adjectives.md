@@ -64,6 +64,36 @@ They aren't the standard way to speak today; they usually appear in English due 
                • "He wiped the table to a shine." ("He wiped the table" is a complete monotransitive event; 'to a shine' optionally specifies the resulting degree of polish).
 ```
 
+---
+
+## FAQ & Syntax Guardrails: "He wiped the table shiny" vs. "He wiped the table to a shine"
+
+### Q: In "He wiped the table shiny", that's an example of a Resultative Complement, but in "He wiped the table to a shine", is an example of Resultative Adjunct because of the nature of the resultative? Like is it because the resultative is a PP?
+
+**Answer:**  
+Not strictly because it is a Prepositional Phrase. Prepositional Phrases can be **either** Complements or Adjuncts depending on whether the verb subcategorizes for that boundary (for instance, *"into pieces"* is a PP, but it is an obligatory Complement).
+
+Instead, the contrast between *"shiny"* and *"to a shine"* comes down to **two structural mechanisms**:
+
+1. **Direct Predication vs. Circumstantial Degree:**
+   - In *"He wiped the table shiny"*, the adjective phrase (AP) directly predicates an internal physical state onto the direct object ($[\text{the table} \rightarrow \text{shiny}]$). When a transitive verb forces an overt change of state on its object, it triggers a **Complex Transitive Verb (CTV)** frame ($\text{Subject} + \text{CTV} + \text{DO} + \text{OC}$), making *shiny* an obligatory **Resultative Object Complement**.
+   - In *"He wiped the table to a shine"*, the preposition *to* introduces a circumstantial path or degree of polish (*to the point of producing a shine*). The core verb frame remains a self-contained **Monotransitive Verb** (*"He wiped the table"* is already complete on its own), making *"to a shine"* an optional **Resultative Adjunct**.
+
+2. **The Deletion Diagnostic:**
+   - Prepositional phrases acting as complements cannot be dropped without semantic collapse or structural failure.
+   - A PP is an **Adjunct** when it merely decorates an already saturated monotransitive proposition.
+
+### Summary Matrix: AP vs. PP Endpoints
+
+| Sentence | Constituent Type | Status | Syntactic Function | Why? |
+| :--- | :--- | :--- | :--- | :--- |
+| *He wiped the table **shiny**.* | **AP** | Obligatory in CTV frame | **Resultative Object Complement** | Small-clause result directly characterizing the Direct Object ($DO \rightarrow State$). |
+| *He wiped the table **to a shine**.* | **PP** | Optional | **Resultative Adjunct** | Modifies a saturated monotransitive event with an optional degree of finish. |
+| *The vase broke **into pieces**.* | **PP** | Obligatory | **Prepositional Resultative Complement** | Radical fragmentation requires a mandatory transformational bound. |
+| *They put the book **on the table**.* | **PP** | Obligatory | **Locative Adverbial Complement** | Complex transitive verb *put* strictly requires a spatial coordinate. |
+
+---
+
 # English Adjective-Verb Relationships
 
 * The term "adjective-verb relationships" isn't usually a single chapter title in a basic grammar book, but in advanced linguistics and syntax, it is a massive and fascinating field of study. It explores how adjectives and verbs "handshake" to create meaning.
