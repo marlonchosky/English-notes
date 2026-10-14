@@ -127,10 +127,12 @@ $$\text{[Subject]} + \text{[Unergative as CTV]} + \text{[Fake Reflexive DO]} + \
 
 ---
 
-### Realization Alternations: AP vs. PP (*asleep* vs. *to sleep*)
+### Realization Alternations: AP vs. PP (*asleep* vs. *to sleep* vs. \**sleeping*)
 When expressing a sleep-related culmination with a coerced unergative verb:
 - ❌ *\*The baby cried himself **sleepy**.*  
   - **Reason for Crash:** A resultative secondary predicate demands **telic culmination** (an achieved, closed terminal state). *Sleepy* merely denotes an ongoing, gradual state of drowsiness (the process leading toward sleep), not the culmination of entering sleep.
+- ❌ *\*The baby cried himself **sleeping**.*  
+  - **Reason for Crash (Durative Aspect Collision):** While *sleeping* is a participial adjective (e.g., *"the sleeping baby"*), its underlying present participle morphology ($-ing$) inherently encodes an **open, durative, ongoing process** rather than a completed terminal boundary. Resultatives strictly require telic endpoints; a durative process cannot serve as a bounded culmination. Furthermore, if forced into a secondary predicate slot, the grammar parses it as a depictive (*during* the crying), producing semantic nonsense (a baby cannot actively cry while already sleeping).
 - ✅ *The baby cried himself **to sleep**.*  
   - **Prepositional Phrase (PP):** *to* (Preposition) + *sleep* (Bare State Noun acting as the Object of the Preposition).
 - ✅ *The baby cried himself **asleep**.*  
