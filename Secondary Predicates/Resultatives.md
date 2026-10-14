@@ -48,7 +48,7 @@ In transitive verb-particle constructions where the particle establishes the cul
 ### C. Optional Transitive Results (Resultative Adjuncts)
 When a monotransitive action is already complete and saturated on its own, an extra prepositional path expressing the degree of finish acts as an optional **Resultative Adjunct**:
 - *He wiped the table **to a shine**.*
-  - **Syntax:** *"He wiped the table"* is an intact monotransitive proposition. *to a shine* is a PP specifying an optional resultant degree/finish (Resultative Adjunct).
+  - **Syntax:** *"He wiped the table"* is an intact monotransitive proposition. *to a shine* is a PP specifying an optional resultant degree/finish (Resultative Adjunct / Adverbial of Result).
 
 ---
 
@@ -90,10 +90,18 @@ Radical physical division, material reorganization, or phase transitions demand 
 > - *\*The engineer hammered the metal **into flat**.* ❌ (Crash: $P^\circ$ requires a DP)
 > - *The engineer hammered the metal **into a flat sheet**.* ✅ (Valid: $P^\circ + DP$)
 
-### The "To" Endpoint Rule
-When the resultative denotes reaching an abstract physiological condition or natural, bare destination state:
+---
+
+### The "To" Endpoint Rule & Lexical Naturalness
+When the resultative denotes reaching an abstract physiological condition or bare destination state, English selects the directional preposition **to** followed by a bare state noun:
 - *The baby cried himself **to sleep**.*
 - *They ran themselves **to exhaustion**.*
+
+> 💡 **Terminal Boundary vs. Scalar States (*to exhaustion* vs. \**to tiredness*):**
+> Prepositional phrases headed by *to* are structurally reserved for **extreme, absolute terminal boundaries** (points of total culmination or collapse):
+> - ✅ *He ran himself **tired**.* (AP Resultative Object Complement: valid property scale).
+> - ✅ *He ran himself **to exhaustion**.* (PP Prepositional Resultative Complement: *exhaustion* marks an absolute physiological terminal limit).
+> - ❌ *\*He ran himself **to tiredness**.* (Crash: *tiredness* represents a mild, open scalar condition rather than an absolute bounded threshold required by the *to* endpoint frame).
 
 ---
 
@@ -119,6 +127,17 @@ $$\text{[Subject]} + \text{[Unergative as CTV]} + \text{[Fake Reflexive DO]} + \
 
 ---
 
+### Realization Alternations: AP vs. PP (*asleep* vs. *to sleep*)
+When expressing a sleep-related culmination with a coerced unergative verb:
+- ❌ *\*The baby cried himself **sleepy**.*  
+  - **Reason for Crash:** A resultative secondary predicate demands **telic culmination** (an achieved, closed terminal state). *Sleepy* merely denotes an ongoing, gradual state of drowsiness (the process leading toward sleep), not the culmination of entering sleep.
+- ✅ *The baby cried himself **to sleep**.*  
+  - **Prepositional Phrase (PP):** *to* (Preposition) + *sleep* (Bare State Noun acting as the Object of the Preposition).
+- ✅ *The baby cried himself **asleep**.*  
+  - **Adjective Phrase (AP):** If the sentence is structured with an AP Resultative Object Complement, English selects the predicate-only $a$-adjective **asleep**, which denotes the actual culminating state of rest.
+
+---
+
 ## 6. Master Summary Matrix
 
 | Construction | Category | Realization | Status | Verb Type | Syntactic Role |
@@ -130,4 +149,6 @@ $$\text{[Subject]} + \text{[Unergative as CTV]} + \text{[Fake Reflexive DO]} + \
 | *The door blew **open**.* | AP | Spatial Delimiter | Obligatory | Complex Unaccusative | Resultative Subject Complement |
 | *The river dried **up**.* | PP / $P^\circ$ | Particle / Intransitive P | Obligatory | Complex Unaccusative | Resultative Subject Complement |
 | *The vase broke **into pieces**.* | PP | Fragmentation Boundary | Obligatory | Complex Unaccusative | Prepositional Resultative Complement |
-| *He cried **himself** **to sleep**.* | PP | Terminal State Path | Obligatory | Coerced CTV (Fake DO) | Prepositional Resultative Complement |
+| *He cried himself **to sleep**.* | PP | Terminal State Path | Obligatory | Coerced CTV (Fake DO) | Prepositional Resultative Complement |
+| *He cried himself **asleep**.* | AP | Predicate $a$-Adjective | Obligatory | Coerced CTV (Fake DO) | Resultative Object Complement |
+| *He ran himself **to exhaustion**.* | PP | Absolute Terminal Boundary | Obligatory | Coerced CTV (Fake DO) | Prepositional Resultative Complement |
