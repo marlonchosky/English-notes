@@ -138,11 +138,41 @@ When expressing a sleep-related culmination with a coerced unergative verb:
 
 ---
 
-## 6. Master Summary Matrix
+## 6. Resultative Constraints & Licensing Guardrails
+
+Not every combination of verb, object, and adjective compiles into a grammatical resultative. English enforces three strict syntactic-semantic constraints:
+
+### A. Semantic Selection & Compatibility Matching
+A resultative predicate must represent a **causally plausible, intrinsic terminal state** that can logically be produced by the specific action of the verb acting upon that object type:
+- ❌ *\*The database engine ran the buffer flat.*
+  - **Why it crashes:** *Flat* denotes two-dimensional geometric planar deformation. It is semantically selected by verbs of impact, compression, or physical pressure (*hammer flat*, *press flat*, *roll flat*). The verb *run* cannot mechanically compress a digital buffer.
+  - **Valid AP Alternative:** *The database engine ran the buffer **dry**.* (*Dry* is an **Adjective Phrase (AP)** acting as a Resultative Object Complement, metaphorically meaning completely depleted).
+  - **Valid Particle/PP Alternative:** *The database engine ran **out of** buffer memory.* (*Out* functions as a particle / intransitive preposition $P^\circ$).
+- ❌ *\*He drank the teapot dry.* (The teapot is not a consumable fluid).
+- ✅ *He drank the teapot **empty**.* (AP Resultative Complement: container state).
+
+### B. The Single Delimiter Constraint (Stacking Ban)
+A single event clause can host **only one** bounded resultative endpoint. Stacking two resultative delimiters crashes the event structure:
+- ❌ *\*The custodian wiped the touch panel shiny to a shine.*
+  - *shiny* (AP Object Complement) and *to a shine* (PP Adjunct) compete for the same terminal delimiter slot.
+- ✅ *The custodian wiped the touch panel **shiny**.* (Single AP Complement)
+- ✅ *The custodian wiped the touch panel **to a shine**.* (Single PP Adjunct)
+
+### C. The Evaluative Adjective Prohibition
+Evaluative adjectives (subjective judgments or mental opinions like *terrible*, *beautiful*, *magnificent*) describe the speaker's assessment, not an objective physical culmination. Therefore, they **cannot** function as resultatives with unaccusative or causative verbs:
+- ❌ *\*The server cluster crashed terrible.*
+- ❌ *\*The porcelain insulator shattered magnificent.*
+- ✅ *The server cluster crashed **terribly**.* (Adverb of Manner modifying the verb event).
+- ✅ *The porcelain insulator shattered **magnificently**.* (Adverb of Manner).
+
+---
+
+## 7. Master Summary Matrix
 
 | Construction | Category | Realization | Status | Verb Type | Syntactic Role |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | *He hammered the metal **flat**.* | AP | Property Adjective | Obligatory | Complex Transitive (CTV) | Resultative Object Complement |
+| *The engine ran the buffer **dry**.* | AP | State Property Adjective | Obligatory | Complex Transitive (CTV) | Resultative Object Complement |
 | *He tore the poster **down**.* | PP / $P^\circ$ | Particle / Intransitive P | Obligatory | Complex Transitive (CTV) | Resultative Object Complement |
 | *He wiped the table **to a shine**.* | PP | Circumstantial Path | Optional | Monotransitive | Resultative Adjunct |
 | *The river froze **solid**.* | AP | Property Adjective | Optional | Standalone Unaccusative | Subject Resultative Adjunct |
