@@ -9,23 +9,17 @@ Unlike a **Resultative** (which denotes a physical change of state), an evaluati
 Evaluative adjectives are highly flexible and appear in three primary structures:
 
 ### A. Copular / Linking Structures (Subject Complements)
+They attribute a subjective quality directly to the subject.
+- *Example:* "He is intelligent." / "The meal was delicious."
 
-They easily attribute a subjective quality directly to the subject.
+### B. Complex Transitive Structures (Depictive Complements / Object Complements)
+Verbs of mental judgment (*consider, deem, find, judge*) obligatorily require an evaluative adjective to act as an Object Depictive Complement.
+- *Example:* "I consider him foolish."
+- *Grammar Breakdown:* *consider* = CTV, *him* = Direct Object, *foolish* = Evaluative Depictive Complement (Object Complement).
 
-- *Example:* "He is **intelligent**." / "The meal was **delicious**."
-
-### B. Complex Transitive Structures (Object Complements)
-
-> ⚠️ **Correction to original note:** Evaluative adjectives frequently appear here. Verbs of mental judgment (*consider, deem, find, judge*) require an evaluative adjective to act as an **Object Complement**.
-
-- *Example:* "I consider him **foolish**."
-  - **Grammar Breakdown:** *consider* is a Complex Transitive Verb, *him* is the Direct Object, and *foolish* is the Evaluative Object Complement.
-
-### C. Depictive Structures (Adjuncts)
-
-They can describe the psychological state or evaluative status of a noun during an event.
-
-- *Example:* "They married **young**." / "She arrived at the party **radiant**."
+### C. Depictive Structures (Depictive Adjuncts)
+They can optionally describe the psychological state, mindset, or evaluative status of a noun during an event.
+- *Example:* "They married young." / "She arrived at the party radiant."
 
 ## 2. The Stative vs. Dynamic Distinction
 
